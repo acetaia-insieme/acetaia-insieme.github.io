@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Acetaia Insieme</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./assets/favicon.svg" rel="icon" type="image/svg+xml">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-b0b713398c16eebc783a83b84c679610.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-c8d57bfc582a5a40e3d63f58921909d7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-b0b713398c16eebc783a83b84c679610.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Nessun risultato",
+    "search-matching-documents-text": "documenti trovati",
+    "search-copy-link-title": "Copiare il link nella ricerca",
+    "search-hide-matches-text": "Nascondere i risultati aggiuntivi",
+    "search-more-match-text": "ci sono altri risultati in questo documento",
+    "search-more-matches-text": "ulteriori risultati in questo documento",
+    "search-clear-button-title": "Pulire",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancellare",
+    "search-submit-button-title": "Inviare",
+    "search-label": "Ricerca"
+  }
+}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&amp;family=Source+Sans+3:wght@400;600&amp;display=swap" rel="stylesheet">
+<script>
+(function(){
+  var saved=null; try{saved=localStorage.getItem('ai-lang');}catch(e){}
+  document.documentElement.setAttribute('data-lang', saved||'it');
+})();
+</script>
+<script src="assets/i18n.js" defer=""></script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./assets/favicon.svg" alt="" class="navbar-logo light-content">
+    <img src="./assets/favicon.svg" alt="" class="navbar-logo dark-content">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Acetaia Insieme</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Ricerca"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Attiva/disattiva la navigazione" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./acetaia.html"> 
+<span class="menu-text">L’acetaia</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./imparare.html"> 
+<span class="menu-text">Imparare</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./album.html"> 
+<span class="menu-text">Album</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contatti.html"> 
+<span class="menu-text">Contatti</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Attiva/disattiva la modalità oscura"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+
+
+
+
+
+<section class="hero">
+  <div class="inner">
+    <span class="badge-family">
+      <span class="l" lang="it">Acetaia familiare · nord di Modena</span>
+      <span class="l" lang="en">Family acetaia · north of Modena</span>
+      <span class="l" lang="de">Familien-Acetaia · nördlich von Modena</span><span class="l" lang="es">Acetaia familiar · norte de Módena</span><span class="l" lang="fr">Acetaia familiale · au nord de Modène</span><span class="l" lang="pt">Acetaia familiar · norte de Módena</span>
+    </span>
+    <h1>Acetaia Insieme</h1>
+    <p>
+      <span class="l" lang="it"><em>Insieme</em> è la parola che racconta i nostri valori: insieme l'abbiamo costruita, insieme la curiamo, e insieme condividiamo e impariamo con voi e da voi.</span>
+      <span class="l" lang="en"><em>Insieme</em> means "together", and it is the word that carries our values: together we built it, together we look after it, and together we share and learn with you and from you.</span>
+      <span class="l" lang="de"><em>Insieme</em> heißt „gemeinsam" und beschreibt unsere Werte: gemeinsam haben wir sie aufgebaut, gemeinsam pflegen wir sie, und gemeinsam teilen und lernen wir mit euch und von euch.</span><span class="l" lang="es"><em>Insieme</em> («juntos») es la palabra que resume nuestros valores: juntos la hemos construido, juntos la cuidamos, y juntos compartimos y aprendemos con vosotros y de vosotros.</span><span class="l" lang="fr"><em>Insieme</em> (« ensemble ») est le mot qui raconte nos valeurs : ensemble nous l'avons construite, ensemble nous en prenons soin, et ensemble nous partageons et apprenons avec vous et de vous.</span><span class="l" lang="pt"><em>Insieme</em> ("juntos") é a palavra que conta os nossos valores: juntos a construímos, juntos cuidamos dela, e juntos compartilhamos e aprendemos com vocês e de vocês.</span>
+    </p>
+  </div>
+</section>
+<div class="l" lang="it">
+<p class="eyebrow">
+La famiglia
+</p>
+<section id="siamo-una-famiglia-allargata" class="level2">
+<h2 class="anchored" data-anchor-id="siamo-una-famiglia-allargata">Siamo una famiglia allargata</h2>
+<p>L’Acetaia Insieme nasce nel 2024 dall’iniziativa di Nara Zanoli, Leonardo Capitani e Talita da Silva Gomes. Oggi la portiamo avanti in cinque: io, Leonardo; mia moglie Erika Talita; nostro figlio Eduardo; mia madre Nara Zanoli, ora nonna di Eduardo; e l’amico Raffaele Freddi, che accompagna ogni passo della produzione. Abbiamo acquistato nel 2024 tre batterie e da allora le seguiamo con attenzione e affetto. Non siamo un’azienda: siamo persone che si ritrovano per affetto comune e per la voglia di imparare cose nuove sull’aceto balsamico.</p>
+</section>
+</div>
+<div class="l" lang="en">
+<p class="eyebrow">
+The family
+</p>
+<section id="we-are-an-extended-family" class="level2">
+<h2 class="anchored" data-anchor-id="we-are-an-extended-family">We are an extended family</h2>
+<p>Acetaia Insieme was founded in 2024 on the initiative of Nara Zanoli, Leonardo Capitani and Talita da Silva Gomes. Today there are five of us: me, Leonardo; my wife Erika Talita; our son Eduardo; my mother Nara Zanoli, now Eduardo’s grandmother; and our friend Raffaele Freddi, who accompanies every step of the production. In 2024 we bought three batteries and since then we have followed them with care and affection. We are not a company: we are people brought together by shared affection and by the wish to learn new things about balsamic vinegar.</p>
+</section>
+</div>
+<div class="l" lang="de">
+<p class="eyebrow">
+Die Familie
+</p>
+<section id="wir-sind-eine-erweiterte-familie" class="level2">
+<h2 class="anchored" data-anchor-id="wir-sind-eine-erweiterte-familie">Wir sind eine erweiterte Familie</h2>
+<p>Die Acetaia Insieme entstand 2024 auf Initiative von Nara Zanoli, Leonardo Capitani und Talita da Silva Gomes. Heute sind wir zu fünft: ich, Leonardo; meine Frau Erika Talita; unser Sohn Eduardo; meine Mutter Nara Zanoli, jetzt Eduardos Nonna; und unser Freund Raffaele Freddi, der jeden Schritt der Produktion begleitet. 2024 haben wir drei Batterien gekauft und seitdem begleiten wir sie mit Aufmerksamkeit und Zuneigung. Wir sind kein Unternehmen: wir sind Menschen, die gemeinsame Zuneigung und die Lust verbindet, Neues über Balsamessig zu lernen.</p>
+</section>
+</div>
+<div class="l" lang="es">
+<p class="eyebrow">
+La familia
+</p>
+<section id="somos-una-familia-extensa" class="level2">
+<h2 class="anchored" data-anchor-id="somos-una-familia-extensa">Somos una familia extensa</h2>
+<p>La Acetaia Insieme nace en 2024 por iniciativa de Nara Zanoli, Leonardo Capitani y Talita da Silva Gomes. Hoy la llevamos adelante entre cinco: yo, Leonardo; mi esposa Erika Talita; nuestro hijo Eduardo; mi madre Nara Zanoli, ahora abuela de Eduardo; y el amigo Raffaele Freddi, que acompaña cada paso de la producción. En 2024 compramos tres baterías y desde entonces las seguimos con atención y cariño. No somos una empresa: somos personas que se reúnen por afecto común y por las ganas de aprender cosas nuevas sobre el vinagre balsámico.</p>
+</section>
+</div>
+<div class="l" lang="fr">
+<p class="eyebrow">
+La famille
+</p>
+<section id="nous-sommes-une-famille-élargie" class="level2">
+<h2 class="anchored" data-anchor-id="nous-sommes-une-famille-élargie">Nous sommes une famille élargie</h2>
+<p>L’Acetaia Insieme est née en 2024 à l’initiative de Nara Zanoli, Leonardo Capitani et Talita da Silva Gomes. Aujourd’hui, nous la faisons vivre à cinq : moi, Leonardo ; ma femme Erika Talita ; notre fils Eduardo ; ma mère Nara Zanoli, désormais grand-mère d’Eduardo ; et notre ami Raffaele Freddi, qui accompagne chaque étape de la production. Nous avons acheté trois batteries en 2024 et, depuis, nous les suivons avec attention et affection. Nous ne sommes pas une entreprise : nous sommes des personnes qui se retrouvent par affection mutuelle et par envie d’apprendre de nouvelles choses sur le vinaigre balsamique.</p>
+</section>
+</div>
+<div class="l" lang="pt">
+<p class="eyebrow">
+A família
+</p>
+<section id="somos-uma-família-ampliada" class="level2">
+<h2 class="anchored" data-anchor-id="somos-uma-família-ampliada">Somos uma família ampliada</h2>
+<p>A Acetaia Insieme nasce em 2024 por iniciativa de Nara Zanoli, Leonardo Capitani e Talita da Silva Gomes. Hoje nós a levamos adiante em cinco: eu, Leonardo; minha esposa Erika Talita; nosso filho Eduardo; minha mãe Nara Zanoli, agora avó de Eduardo; e o amigo Raffaele Freddi, que acompanha cada passo da produção. Compramos três baterias em 2024 e desde então cuidamos delas com atenção e carinho. Não somos uma empresa: somos pessoas que se reúnem por afeto comum e pela vontade de aprender coisas novas sobre o vinagre balsâmico.</p>
+</section>
+</div>
+<div class="family">
+  <div class="person"><img src="foto/leonardo_capitani.jpg" alt="Leonardo Capitani">
+    <div class="meta"><strong>Leonardo Capitani</strong>
+      <small><span class="l" lang="it">Fondatore · contatto per l'aceto. Dottorato di ricerca in Ecologia, esperto di analisi dei dati. <a href="https://leomarameo7.github.io">Pagina personale</a></span><span class="l" lang="en">Founder · contact for the vinegar. PhD in Ecology, expert in data analysis. <a href="https://leomarameo7.github.io">Personal page</a></span><span class="l" lang="de">Gründer · Kontakt für den Essig. Promotion in Ökologie, Experte für Datenanalyse. <a href="https://leomarameo7.github.io">Persönliche Seite</a></span><span class="l" lang="es">Fundador · contacto para el vinagre. Doctor en Ecología, experto en análisis de datos. <a href="https://leomarameo7.github.io">Página personal</a></span><span class="l" lang="fr">Fondateur · contact pour le vinaigre. Docteur en écologie, spécialiste de l'analyse de données. <a href="https://leomarameo7.github.io">Page personnelle</a></span><span class="l" lang="pt">Fundador · contato para o vinagre. Doutorado em Ecologia, especialista em análise de dados. <a href="https://leomarameo7.github.io">Página pessoal</a></span></small></div></div>
+  <div class="person"><img src="foto/erika_talita.jpg" alt="Erika Talita da Silva Gomes">
+    <div class="meta"><strong>Erika Talita da Silva Gomes</strong>
+      <small><span class="l" lang="it">Co-fondatrice · moglie di Leonardo. Laureata in pedagogia; le piace danzare e cucinare.</span><span class="l" lang="en">Co-founder · Leonardo's wife. Degree in pedagogy; she loves dancing and cooking.</span><span class="l" lang="de">Mitgründerin · Leonardos Frau. Abschluss in Pädagogik; sie tanzt und kocht gern.</span><span class="l" lang="es">Cofundadora · esposa de Leonardo. Licenciada en pedagogía; le gusta bailar y cocinar.</span><span class="l" lang="fr">Co-fondatrice · épouse de Leonardo. Diplômée en pédagogie ; elle aime danser et cuisiner.</span><span class="l" lang="pt">Cofundadora · esposa de Leonardo. Formada em pedagogia; gosta de dançar e cozinhar.</span></small></div></div>
+  <div class="person"><img src="foto/nara_zanoli.jpg" alt="Nara Zanoli">
+    <div class="meta"><strong>Nara Zanoli</strong>
+      <small><span class="l" lang="it">Co-fondatrice · mamma di Leonardo, nonna di Eduardo · contatto per le visite. Insegnante elementare in pensione; le piace leggere, avere cura della campagna e stare in compagnia.</span><span class="l" lang="en">Co-founder · Leonardo's mother, Eduardo's grandmother · contact for visits. Retired primary-school teacher; she loves reading, caring for the countryside and good company.</span><span class="l" lang="de">Mitgründerin · Leonardos Mutter, Eduardos Nonna · Kontakt für Besuche. Grundschullehrerin im Ruhestand; sie liest gern, pflegt das Land und ist gern in Gesellschaft.</span><span class="l" lang="es">Cofundadora · madre de Leonardo, abuela de Eduardo · contacto para las visitas. Maestra de primaria jubilada; le gusta leer, cuidar del campo y estar en compañía.</span><span class="l" lang="fr">Co-fondatrice · maman de Leonardo, grand-mère d'Eduardo · contact pour les visites. Institutrice à la retraite ; elle aime lire, prendre soin de la campagne et être en bonne compagnie.</span><span class="l" lang="pt">Cofundadora · mãe de Leonardo, avó de Eduardo · contato para as visitas. Professora primária aposentada; gosta de ler, de cuidar do campo e de estar em boa companhia.</span></small></div></div>
+  <div class="person"><img src="foto/raffaele_travasi.jpg" alt="Raffaele Freddi durante i travasi">
+    <div class="meta"><strong>Raffaele Freddi</strong>
+      <small><span class="l" lang="it">Amico di famiglia · accompagna ogni passo della produzione</span><span class="l" lang="en">Family friend · accompanies every step of the production</span><span class="l" lang="de">Freund der Familie · begleitet jeden Schritt der Produktion</span><span class="l" lang="es">Amigo de la familia · acompaña cada paso de la producción</span><span class="l" lang="fr">Ami de la famille · il accompagne chaque étape de la production</span><span class="l" lang="pt">Amigo da família · acompanha cada passo da produção</span></small></div></div>
+  <div class="person"><img src="foto/eduardo_uva.jpg" alt="Eduardo tra le viti" style="object-position:center 35%">
+    <div class="meta"><strong>Eduardo</strong>
+      <small><span class="l" lang="it">Il più giovane della famiglia</span><span class="l" lang="en">The youngest of the family</span><span class="l" lang="de">Der Jüngste der Familie</span><span class="l" lang="es">El más joven de la familia</span><span class="l" lang="fr">Le plus jeune de la famille</span><span class="l" lang="pt">O mais jovem da família</span></small></div></div>
+</div>
+<p class="eyebrow"><span class="l" lang="it">I nostri valori</span><span class="l" lang="en">Our values</span><span class="l" lang="de">Unsere Werte</span><span class="l" lang="es">Nuestros valores</span><span class="l" lang="fr">Nos valeurs</span><span class="l" lang="pt">Os nossos valores</span></p>
+<div class="values">
+  <div class="value"><strong><span class="l" lang="it">Insieme l'abbiamo fatta</span><span class="l" lang="en">Together we made it</span><span class="l" lang="de">Gemeinsam gebaut</span><span class="l" lang="es">Juntos la hemos hecho</span><span class="l" lang="fr">Ensemble, nous l'avons créée</span><span class="l" lang="pt">Juntos a construímos</span></strong>
+    <span class="l" lang="it">Tre batterie di aceto balsamico acquisite nel 2024 e accudite con pazienza e le mani di tutta la famiglia allargata.</span>
+    <span class="l" lang="en">Three batteries of balsamic vinegar acquired in 2024 and cared for with patience and the hands of the whole extended family.</span>
+    <span class="l" lang="de">Drei Batterien Balsamessig, 2024 erworben und mit Geduld und den Händen der ganzen erweiterten Familie gepflegt.</span><span class="l" lang="es">Tres baterías de vinagre balsámico adquiridas en 2024 y cuidadas con paciencia y las manos de toda la familia extensa.</span><span class="l" lang="fr">Trois batteries de vinaigre balsamique acquises en 2024 et soignées avec patience et les mains de toute la famille élargie.</span><span class="l" lang="pt">Três baterias de vinagre balsâmico adquiridas em 2024 e cuidadas com paciência e as mãos de toda a família estendida.</span></div>
+  <div class="value"><strong><span class="l" lang="it">Insieme la manteniamo</span><span class="l" lang="en">Together we maintain it</span><span class="l" lang="de">Gemeinsam gepflegt</span><span class="l" lang="es">Juntos la mantenemos</span><span class="l" lang="fr">Ensemble, nous l'entretenons</span><span class="l" lang="pt">Juntos cuidamos dela</span></strong>
+    <span class="l" lang="it">Misuriamo acidità, densità, temperatura e umidità e registriamo tutto, per capire e migliorare.</span>
+    <span class="l" lang="en">We measure acidity, density, temperature and humidity and record everything, to understand and improve.</span>
+    <span class="l" lang="de">Wir messen Säure, Dichte, Temperatur und Luftfeuchte und protokollieren alles, um zu verstehen und besser zu werden.</span><span class="l" lang="es">Medimos acidez, densidad, temperatura y humedad, y lo registramos todo, para entender y mejorar.</span><span class="l" lang="fr">Nous mesurons l'acidité, la densité, la température et l'humidité, et nous notons tout, pour comprendre et progresser.</span><span class="l" lang="pt">Medimos acidez, densidade, temperatura e umidade e registramos tudo, para entender e melhorar.</span></div>
+  <div class="value"><strong><span class="l" lang="it">Insieme condividiamo e impariamo</span><span class="l" lang="en">Together we share and learn</span><span class="l" lang="de">Gemeinsam teilen und lernen</span><span class="l" lang="es">Juntos compartimos y aprendemos</span><span class="l" lang="fr">Ensemble, nous partageons et apprenons</span><span class="l" lang="pt">Juntos compartilhamos e aprendemos</span></strong>
+    <span class="l" lang="it">Con voi e da voi, e con la community del balsamico familiare al vasèl.</span>
+    <span class="l" lang="en">With you and from you, and with the al vasèl community of family balsamic makers.</span>
+    <span class="l" lang="de">Mit euch und von euch, und mit der al vasèl-Community der Familien-Balsamico-Hersteller.</span><span class="l" lang="es">Con vosotros y de vosotros, y con la comunidad del balsámico familiar al vasèl.</span><span class="l" lang="fr">Avec vous et de vous, et avec la communauté du balsamique familial al vasèl.</span><span class="l" lang="pt">Com vocês e de vocês, e com a comunidade do balsâmico familiar al vasèl.</span></div>
+</div>
+<section class="science">
+  <p class="eyebrow"><span class="l" lang="it">Scienza e trasparenza</span><span class="l" lang="en">Science and transparency</span><span class="l" lang="de">Wissenschaft und Transparenz</span><span class="l" lang="es">Ciencia y transparencia</span><span class="l" lang="fr">Science et transparence</span><span class="l" lang="pt">Ciência e transparência</span></p>
+  <h2 class="anchored"><span class="l" lang="it">La nostra acetaia familiare è anche un laboratorio scientifico</span><span class="l" lang="en">Our family acetaia is also a scientific laboratory</span><span class="l" lang="de">Unsere Familien-Acetaia ist auch ein wissenschaftliches Labor</span><span class="l" lang="es">Nuestra acetaia familiar es también un laboratorio científico</span><span class="l" lang="fr">Notre acetaia familiale est aussi un laboratoire scientifique</span><span class="l" lang="pt">A nossa acetaia familiar também é um laboratório científico</span></h2>
+  <p class="l" lang="it">Raccogliamo dati che ci servono per prendere decisioni. Sì, è proprio così: ci basiamo sulla scienza per decidere cosa fare. Siamo convinti che, raccogliendo i dati, possiamo correggere di molto i nostri errori e non ripeterli. Inoltre crediamo nella trasparenza: i dati delle batterie sono a disposizione di tutti, consultabili e scaricabili nell'apposita pagina, e siamo aperti a suggerimenti costruttivi su come migliorare. Crediamo che questo sia il punto peculiare che rende unica e speciale la nostra acetaia.</p>
+  <p class="l" lang="en">We collect the data we need to make decisions. Yes, exactly that: we rely on science to decide what to do. We are convinced that by collecting data we can correct our mistakes a great deal and avoid repeating them. We also believe in transparency: the batteries' data are available to everyone, to consult and download on the dedicated page, and we welcome constructive suggestions on how to improve. We believe this is the peculiar trait that makes our acetaia unique and special.</p>
+  <p class="l" lang="de">Wir sammeln die Daten, die wir brauchen, um Entscheidungen zu treffen. Ja, genau so: wir stützen uns auf die Wissenschaft, um zu entscheiden, was zu tun ist. Wir sind überzeugt, dass wir durch das Sammeln von Daten unsere Fehler deutlich korrigieren und nicht wiederholen können. Außerdem glauben wir an Transparenz: die Daten der Batterien stehen allen zur Verfügung, einsehbar und herunterladbar auf der eigenen Seite, und wir sind offen für konstruktive Vorschläge, wie wir besser werden können. Wir glauben, dass dies die Besonderheit ist, die unsere Acetaia einzigartig macht.</p><p class="l" lang="es">Recogemos los datos que necesitamos para tomar decisiones. Sí, es exactamente así: nos basamos en la ciencia para decidir qué hacer. Estamos convencidos de que, recogiendo datos, podemos corregir en gran medida nuestros errores y no repetirlos. Además creemos en la transparencia: los datos de las baterías están a disposición de todos, se pueden consultar y descargar en la página correspondiente, y estamos abiertos a sugerencias constructivas sobre cómo mejorar. Creemos que este es el rasgo peculiar que hace única y especial a nuestra acetaia.</p><p class="l" lang="fr">Nous recueillons les données dont nous avons besoin pour prendre nos décisions. Oui, c'est bien cela : nous nous appuyons sur la science pour décider quoi faire. Nous sommes convaincus qu'en recueillant des données, nous pouvons corriger en grande partie nos erreurs et ne pas les répéter. Nous croyons aussi à la transparence : les données des batteries sont à la disposition de tous, consultables et téléchargeables sur la page dédiée, et nous sommes ouverts aux suggestions constructives pour nous améliorer. Nous pensons que c'est là le trait particulier qui rend notre acetaia unique et spéciale.</p><p class="l" lang="pt">Coletamos os dados de que precisamos para tomar decisões. Sim, é isso mesmo: nos baseamos na ciência para decidir o que fazer. Estamos convencidos de que, coletando dados, podemos corrigir em boa parte os nossos erros e não repeti-los. Além disso, acreditamos na transparência: os dados das baterias estão à disposição de todos, podem ser consultados e baixados na página dedicada, e estamos abertos a sugestões construtivas sobre como melhorar. Acreditamos que este seja o ponto peculiar que torna a nossa acetaia única e especial.</p>
+  <blockquote class="quote blockquote">
+    <p>„Un cibo buono, pulito e giusto deve essere trasparente: dobbiamo sapere chi produce il nostro cibo, come lo produce e da dove viene, per restituire valore al lavoro della terra e dignità a chi la coltiva."</p>
+    <footer>Carlo Petrini, <a href="https://www.slowfood.it">Slow Food Italia</a> · <span class="l" lang="it">fondatore di Slow Food</span><span class="l" lang="en">founder of Slow Food: "Good, clean and fair food must be transparent: we must know who produces our food, how and where it comes from, to give value back to the work of the land and dignity to those who farm it."</span><span class="l" lang="de">Gründer von Slow Food: „Gutes, sauberes und faires Essen muss transparent sein: wir müssen wissen, wer unser Essen erzeugt, wie und woher es kommt, um der Arbeit auf dem Land ihren Wert und denen, die es bestellen, ihre Würde zurückzugeben."</span><span class="l" lang="es">fundador de Slow Food</span><span class="l" lang="fr">fondateur de Slow Food</span><span class="l" lang="pt">fundador do Slow Food</span></footer>
+  </blockquote>
+  <p><a class="btn-ai" href="./acetaia.html#dati"><span class="l" lang="it">Dati aperti: consulta e scarica</span><span class="l" lang="en">Open data: consult and download</span><span class="l" lang="de">Offene Daten: ansehen und herunterladen</span><span class="l" lang="es">Datos abiertos: consulta y descarga</span><span class="l" lang="fr">Données ouvertes : consultez et téléchargez</span><span class="l" lang="pt">Dados abertos: consulte e baixe</span></a></p>
+</section>
+<div class="callout-ai gold fienile">
+  <div class="fienile-icon"><svg viewbox="0 0 64 64" width="56" height="56" aria-hidden="true"><path d="M8 30 L32 10 L56 30 V56 H8 Z" fill="#b98a4b" stroke="#3b2414" stroke-width="2.5" stroke-linejoin="round"></path><path d="M8 30 L32 10 L56 30" fill="none" stroke="#3b2414" stroke-width="3"></path><rect x="24" y="34" width="16" height="22" rx="2" fill="#5a1e26"></rect><path d="M24 34 L40 56 M40 34 L24 56" stroke="#f7efe3" stroke-width="2"></path><path d="M32 4 v6" stroke="#3b2414" stroke-width="2.5"></path><text x="32" y="30" text-anchor="middle" font-size="9" font-weight="700" fill="#2b1a10" font-family="Source Sans 3, sans-serif">6 m</text></svg></div>
+  <div><p class="eyebrow"><span class="l" lang="it">Dove stanno le botti</span><span class="l" lang="en">Where the barrels are</span><span class="l" lang="de">Wo die Fässer stehen</span><span class="l" lang="es">Dónde están los barriles</span><span class="l" lang="fr">Où sont les fûts</span><span class="l" lang="pt">Onde ficam os barris</span></p>
+  <p><span class="l" lang="it"><strong>Un antico fienile a sei metri di altezza.</strong> L'acetaia è situata a 6 metri di altezza, in un antico fienile ristrutturato. Non è una soffitta, e questo cambia le cose: d'estate non soffre delle temperature estreme, oltre i 35 °C, che si creano nelle soffitte; d'inverno può ricevere più umidità e temperature più basse rispetto a una soffitta. Sono condizioni uniche per l'invecchiamento del balsamico, che seguiamo con le misure di temperatura e umidità.</span><span class="l" lang="en"><strong>An old hayloft six metres up.</strong> The acetaia sits 6 metres above the ground, in an old restored hayloft. It is not an attic, and that changes things: in summer it does not suffer the extreme temperatures, above 35 °C, that build up in attics; in winter it can receive more humidity and lower temperatures than an attic. These are unique conditions for ageing balsamic vinegar, which we follow with temperature and humidity measurements.</span><span class="l" lang="de"><strong>Eine alte Scheune in sechs Metern Höhe.</strong> Die Acetaia liegt 6 Meter über dem Boden, in einer alten, restaurierten Scheune. Es ist kein Dachboden, und das macht den Unterschied: im Sommer leidet sie nicht unter den extremen Temperaturen über 35 °C, die in Dachböden entstehen; im Winter kann sie mehr Feuchtigkeit und niedrigere Temperaturen aufnehmen als ein Dachboden. Das sind einzigartige Bedingungen für die Reifung des Balsamico, die wir mit Temperatur- und Luftfeuchtemessungen verfolgen.</span><span class="l" lang="es"><strong>Un antiguo pajar a seis metros de altura.</strong> La acetaia está situada a 6 metros de altura, en un antiguo pajar restaurado. No es un desván, y eso cambia las cosas: en verano no sufre las temperaturas extremas, por encima de 35 °C, que se crean en los desvanes; en invierno puede recibir más humedad y temperaturas más bajas que un desván. Son condiciones únicas para el envejecimiento del balsámico, que seguimos con las medidas de temperatura y humedad.</span><span class="l" lang="fr"><strong>Une ancienne grange à six mètres de hauteur.</strong> L'acetaia est située à 6 mètres de hauteur, dans une ancienne grange restaurée. Ce n'est pas un grenier, et cela change tout : en été, elle ne subit pas les températures extrêmes, au-delà de 35 °C, qui se créent dans les greniers ; en hiver, elle peut recevoir plus d'humidité et des températures plus basses qu'un grenier. Ce sont des conditions uniques pour le vieillissement du balsamique, que nous suivons avec les mesures de température et d'humidité.</span><span class="l" lang="pt"><strong>Um antigo celeiro a seis metros de altura.</strong> A acetaia fica a 6 metros de altura, em um antigo celeiro restaurado. Não é um sótão, e isso muda tudo: no verão não sofre as temperaturas extremas, acima de 35 °C, que se formam nos sótãos; no inverno pode receber mais umidade e temperaturas mais baixas do que um sótão. São condições únicas para o envelhecimento do balsâmico, que acompanhamos com as medições de temperatura e umidade.</span></p></div>
+</div>
+<div class="l" lang="it">
+<p class="eyebrow">
+Il territorio
+</p>
+<section id="il-fiume-secchia-e-le-terre-a-nord-di-modena" class="level2">
+<h2 class="anchored" data-anchor-id="il-fiume-secchia-e-le-terre-a-nord-di-modena">Il fiume Secchia e le terre a nord di Modena</h2>
+<p>L’acetaia si trova a Cavezzo, nella pianura a nord di Modena, lungo il fiume Secchia, simbolo di queste terre. Un tempo qui c’erano paludi e acquitrini; poi le bonifiche hanno disegnato i campi, i filari e gli argini che vediamo oggi, e questa pianura è diventata uno dei centri della produzione del balsamico. Le nostre foto raccontano le stagioni del posto: il Secchia in piena a marzo, i frutteti in fiore, le api sul tarassaco.</p>
+</section>
+</div>
+<div class="l" lang="en">
+<p class="eyebrow">
+The land
+</p>
+<section id="the-secchia-river-and-the-plain-north-of-modena" class="level2">
+<h2 class="anchored" data-anchor-id="the-secchia-river-and-the-plain-north-of-modena">The Secchia river and the plain north of Modena</h2>
+<p>The acetaia is in Cavezzo, in the plain north of Modena, along the Secchia river, a symbol of this land. This used to be marsh and wetland; land reclamation then drew the fields, vine rows and embankments we see today, and the plain became one of the centres of balsamic vinegar production. Our photos follow the seasons here: the Secchia in flood in March, the orchards in bloom, the bees on dandelions.</p>
+</section>
+</div>
+<div class="l" lang="de">
+<p class="eyebrow">
+Die Gegend
+</p>
+<section id="der-fluss-secchia-und-die-ebene-nördlich-von-modena" class="level2">
+<h2 class="anchored" data-anchor-id="der-fluss-secchia-und-die-ebene-nördlich-von-modena">Der Fluss Secchia und die Ebene nördlich von Modena</h2>
+<p>Die Acetaia liegt in Cavezzo, in der Ebene nördlich von Modena, am Fluss Secchia, einem Symbol dieser Gegend. Früher waren hier Sümpfe und Feuchtgebiete; die Trockenlegung hat die Felder, Rebzeilen und Deiche gezeichnet, die wir heute sehen, und die Ebene wurde zu einem der Zentren der Balsamico-Produktion. Unsere Fotos zeigen die Jahreszeiten hier: den Hochwasser führenden Secchia im März, die blühenden Obstgärten, die Bienen auf dem Löwenzahn.</p>
+</section>
+</div>
+<div class="l" lang="es">
+<p class="eyebrow">
+El territorio
+</p>
+<section id="el-río-secchia-y-las-tierras-al-norte-de-módena" class="level2">
+<h2 class="anchored" data-anchor-id="el-río-secchia-y-las-tierras-al-norte-de-módena">El río Secchia y las tierras al norte de Módena</h2>
+<p>La acetaia se encuentra en Cavezzo, en la llanura al norte de Módena, junto al río Secchia, símbolo de estas tierras. Antaño aquí había pantanos y marismas; después las obras de saneamiento dibujaron los campos, las hileras de viñas y los diques que vemos hoy, y esta llanura se convirtió en uno de los centros de producción del balsámico. Nuestras fotos cuentan las estaciones del lugar: el Secchia en crecida en marzo, los frutales en flor, las abejas sobre el diente de león.</p>
+</section>
+</div>
+<div class="l" lang="fr">
+<p class="eyebrow">
+Le territoire
+</p>
+<section id="le-fleuve-secchia-et-les-terres-au-nord-de-modène" class="level2">
+<h2 class="anchored" data-anchor-id="le-fleuve-secchia-et-les-terres-au-nord-de-modène">Le fleuve Secchia et les terres au nord de Modène</h2>
+<p>L’acetaia se trouve à Cavezzo, dans la plaine au nord de Modène, le long du fleuve Secchia, symbole de ces terres. Autrefois, il y avait ici des marais et des marécages ; puis les travaux d’assèchement ont dessiné les champs, les rangs de vigne et les digues que nous voyons aujourd’hui, et cette plaine est devenue l’un des centres de la production du balsamique. Nos photos racontent les saisons du lieu : le Secchia en crue en mars, les vergers en fleurs, les abeilles sur les pissenlits.</p>
+</section>
+</div>
+<div class="l" lang="pt">
+<p class="eyebrow">
+O território
+</p>
+<section id="o-rio-secchia-e-as-terras-ao-norte-de-módena" class="level2">
+<h2 class="anchored" data-anchor-id="o-rio-secchia-e-as-terras-ao-norte-de-módena">O rio Secchia e as terras ao norte de Módena</h2>
+<p>A acetaia fica em Cavezzo, na planície ao norte de Módena, ao longo do rio Secchia, símbolo destas terras. Antigamente aqui havia pântanos e brejos; depois as obras de drenagem desenharam os campos, as fileiras de videiras e os diques que vemos hoje, e esta planície se tornou um dos centros da produção do balsâmico. As nossas fotos contam as estações do lugar: o Secchia em cheia em março, os pomares em flor, as abelhas no dente-de-leão.</p>
+</section>
+</div>
+<div class="gallery">
+  <figure class="wide figure"><img src="foto/fiume_secchia.jpg" alt="Fiume Secchia" class="figure-img"><figcaption><span class="l" lang="it">Il Secchia in piena, marzo 2025</span><span class="l" lang="en">The Secchia in flood, March 2025</span><span class="l" lang="de">Der Secchia bei Hochwasser, März 2025</span><span class="l" lang="es">El Secchia en crecida, marzo de 2025</span><span class="l" lang="fr">Le Secchia en crue, mars 2025</span><span class="l" lang="pt">O Secchia em cheia, março de 2025</span></figcaption></figure>
+  <figure class="figure"><img src="foto/acetaia_struttura.jpg" alt="L'acetaia vista dall'esterno" class="figure-img"><figcaption><span class="l" lang="it">L'acetaia vista dall'esterno</span><span class="l" lang="en">The acetaia from outside</span><span class="l" lang="de">Die Acetaia von außen</span><span class="l" lang="es">La acetaia vista desde fuera</span><span class="l" lang="fr">L'acetaia vue de l'extérieur</span><span class="l" lang="pt">A acetaia vista de fora</span></figcaption></figure>
+  <figure class="figure"><img src="foto/batterie_1.jpg" alt="Le batterie" class="figure-img"><figcaption><span class="l" lang="it">Le batterie nel fienile</span><span class="l" lang="en">The batteries in the hayloft</span><span class="l" lang="de">Die Batterien in der Scheune</span><span class="l" lang="es">Las baterías en el pajar</span><span class="l" lang="fr">Les batteries dans la grange</span><span class="l" lang="pt">As baterias no celeiro</span></figcaption></figure>
+  <figure class="tall figure"><img src="foto/fiore4.jpg" alt="Fiore di pesco" class="figure-img"><figcaption><span class="l" lang="it">Fiore di pesco</span><span class="l" lang="en">Peach blossom</span><span class="l" lang="de">Pfirsichblüte</span><span class="l" lang="es">Flor de melocotonero</span><span class="l" lang="fr">Fleur de pêcher</span><span class="l" lang="pt">Flor de pessegueiro</span></figcaption></figure>
+  <figure class="figure"><img src="foto/fiore1.jpg" alt="Ape sul tarassaco" class="figure-img"><figcaption><span class="l" lang="it">Ape sul tarassaco</span><span class="l" lang="en">Bee on a dandelion</span><span class="l" lang="de">Biene auf Löwenzahn</span><span class="l" lang="es">Abeja sobre el diente de león</span><span class="l" lang="fr">Abeille sur un pissenlit</span><span class="l" lang="pt">Abelha no dente-de-leão</span></figcaption></figure>
+  <figure class="figure"><img src="foto/fiore2.jpg" alt="Cotogno del Giappone in fiore" class="figure-img"><figcaption><span class="l" lang="it">Cotogno in fiore</span><span class="l" lang="en">Flowering quince</span><span class="l" lang="de">Zierquitte in Blüte</span><span class="l" lang="es">Membrillo en flor</span><span class="l" lang="fr">Cognassier en fleurs</span><span class="l" lang="pt">Marmeleiro em flor</span></figcaption></figure>
+</div>
+<div class="callout-ai wwoof">
+  <a href="https://wwoof.it/en/host/16611" class="wwoof-logo"><img src="foto/wwoof_italia.png" alt="WWOOF Italia"></a>
+  <div>
+  <p class="eyebrow">WWOOF</p>
+  <p class="l" lang="it"><strong>Vieni a fare un'esperienza WWOOF da noi.</strong> Siamo host della rete WWOOF Italia: orto, campagna, acetaia e tavola in famiglia. Trovi il nostro profilo e le modalità su <a href="https://wwoof.it/en/host/16611">wwoof.it (host 16611)</a>.</p>
+  <p class="l" lang="en"><strong>Come for a WWOOF experience with us.</strong> We are hosts in the WWOOF Italia network: vegetable garden, countryside, acetaia and family table. Our profile and the details are on <a href="https://wwoof.it/en/host/16611">wwoof.it (host 16611)</a>.</p>
+  <p class="l" lang="de"><strong>Komm für eine WWOOF-Erfahrung zu uns.</strong> Wir sind Gastgeber im Netzwerk WWOOF Italia: Gemüsegarten, Land, Acetaia und Familientisch. Unser Profil und die Einzelheiten findest du auf <a href="https://wwoof.it/en/host/16611">wwoof.it (Host 16611)</a>.</p><p class="l" lang="es"><strong>Ven a vivir una experiencia WWOOF con nosotros.</strong> Somos anfitriones de la red WWOOF Italia: huerto, campo, acetaia y mesa en familia. Encontrarás nuestro perfil y las condiciones en <a href="https://wwoof.it/en/host/16611">wwoof.it (host 16611)</a>.</p><p class="l" lang="fr"><strong>Venez vivre une expérience WWOOF chez nous.</strong> Nous sommes hôtes du réseau WWOOF Italia : potager, campagne, acetaia et table en famille. Vous trouverez notre profil et les modalités sur <a href="https://wwoof.it/en/host/16611">wwoof.it (hôte 16611)</a>.</p><p class="l" lang="pt"><strong>Venham viver uma experiência WWOOF conosco.</strong> Somos anfitriões da rede WWOOF Italia: horta, campo, acetaia e mesa em família. Vocês encontram o nosso perfil e as condições em <a href="https://wwoof.it/en/host/16611">wwoof.it (host 16611)</a>.</p>
+  </div>
+</div>
+<div class="callout-ai gold">
+  <p class="eyebrow"><span class="l" lang="it">La community</span><span class="l" lang="en">The community</span><span class="l" lang="de">Die Community</span><span class="l" lang="es">La comunidad</span><span class="l" lang="fr">La communauté</span><span class="l" lang="pt">A comunidade</span></p>
+  <p class="l" lang="it">Facciamo parte della <a href="https://www.alvasel.com">community del Balsamico familiare al vasèl</a>, dove condividiamo quello che sappiamo e impariamo dalle altre famiglie che producono aceto. Se vuoi conoscere nel dettaglio come si fa l'aceto balsamico, sul <a href="https://www.youtube.com/c/alvasel">canale YouTube al vasèl</a> Max Forni lo spiega passo per passo (in italiano).</p>
+  <p class="l" lang="en">We are part of the <a href="https://www.alvasel.com">al vasèl community of family balsamic makers</a>, where we share what we know and learn from other families who make vinegar. If you want to know in detail how balsamic vinegar is made, on the <a href="https://www.youtube.com/c/alvasel">al vasèl YouTube channel</a> Max Forni explains it step by step (in Italian).</p>
+  <p class="l" lang="de">Wir sind Teil der <a href="https://www.alvasel.com">al vasèl-Community des familiären Balsamico</a>, in der wir unser Wissen teilen und von anderen Familien lernen, die Essig herstellen. Wer im Detail wissen möchte, wie Balsamessig entsteht: auf dem <a href="https://www.youtube.com/c/alvasel">YouTube-Kanal al vasèl</a> erklärt es Max Forni Schritt für Schritt (auf Italienisch).</p><p class="l" lang="es">Formamos parte de la <a href="https://www.alvasel.com">comunidad del Balsámico familiar al vasèl</a>, donde compartimos lo que sabemos y aprendemos de las otras familias que producen vinagre. Si quieres conocer en detalle cómo se hace el vinagre balsámico, en el <a href="https://www.youtube.com/c/alvasel">canal de YouTube al vasèl</a> Max Forni lo explica paso a paso (en italiano).</p><p class="l" lang="fr">Nous faisons partie de la <a href="https://www.alvasel.com">communauté du Balsamique familial al vasèl</a>, où nous partageons ce que nous savons et apprenons des autres familles qui produisent du vinaigre. Si vous voulez savoir en détail comment se fait le vinaigre balsamique, sur la <a href="https://www.youtube.com/c/alvasel">chaîne YouTube al vasèl</a> Max Forni l'explique pas à pas (en italien).</p><p class="l" lang="pt">Fazemos parte da <a href="https://www.alvasel.com">comunidade do Balsâmico familiar al vasèl</a>, onde compartilhamos o que sabemos e aprendemos com as outras famílias que produzem vinagre. Se vocês quiserem conhecer em detalhe como se faz o vinagre balsâmico, no <a href="https://www.youtube.com/c/alvasel">canal do YouTube al vasèl</a> Max Forni explica passo a passo (em italiano).</p>
+</div>
+<section id="esplora-il-sito" class="level3 l" lang="it">
+<h3 class="anchored" data-anchor-id="esplora-il-sito">Esplora il sito</h3>
+<ul>
+<li><a href="./acetaia.html">L’acetaia</a>: le tre batterie A, B e C, i legni, le misure di acidità e densità, il volume stimato delle botti, le condizioni all’interno dell’acetaia e, nella scheda <em>Cronologia</em>, il cronogramma delle azioni compiute dal 2024.</li>
+<li><a href="./imparare.html">Imparare</a>: che cos’è il balsamico, la mappa di Modena e Reggio Emilia, le formule per il volume delle botti, la luna e le regole per chi vuole vendere.</li>
+<li><a href="./album.html">Album</a>: le foto della nostra attività.</li>
+<li><a href="./contatti.html">Contatti</a>: per l’aceto e per le visite in acetaia.</li>
+</ul>
+</section>
+<section id="explore-the-site" class="level3 l" lang="en">
+<h3 class="anchored" data-anchor-id="explore-the-site">Explore the site</h3>
+<ul>
+<li><a href="./acetaia.html">The acetaia</a>: the three batteries A, B and C, the woods, acidity and density measurements, the estimated barrel volumes, the conditions inside the acetaia and, in the <em>Timeline</em> tab, the chronogram of everything done since 2024.</li>
+<li><a href="./imparare.html">Learn</a>: what balsamic vinegar is, the map of Modena and Reggio Emilia, the formulas for barrel volume, the moon and the rules for those who want to sell.</li>
+<li><a href="./album.html">Album</a>: photos of our activity.</li>
+<li><a href="./contatti.html">Contact</a>: for the vinegar and for visits to the acetaia.</li>
+</ul>
+</section>
+<section id="die-seite-entdecken" class="level3 l" lang="de">
+<h3 class="anchored" data-anchor-id="die-seite-entdecken">Die Seite entdecken</h3>
+<ul>
+<li><a href="./acetaia.html">Die Acetaia</a>: die drei Batterien A, B und C, die Hölzer, Säure- und Dichtemessungen, das geschätzte Fassvolumen, die Bedingungen im Inneren der Acetaia und, im Reiter <em>Chronik</em>, das Chronogramm aller Arbeiten seit 2024.</li>
+<li><a href="./imparare.html">Lernen</a>: was Balsamessig ist, die Karte von Modena und Reggio Emilia, die Formeln für das Fassvolumen, der Mond und die Regeln für den Verkauf.</li>
+<li><a href="./album.html">Album</a>: Fotos unserer Tätigkeit.</li>
+<li><a href="./contatti.html">Kontakt</a>: für den Essig und für Besuche in der Acetaia.</li>
+</ul>
+</section>
+<section id="explora-el-sitio" class="level3 l" lang="es">
+<h3 class="anchored" data-anchor-id="explora-el-sitio">Explora el sitio</h3>
+<ul>
+<li><a href="./acetaia.html">La acetaia</a>: las tres baterías A, B y C, las maderas, las medidas de acidez y densidad, el volumen estimado de los barriles, las condiciones en el interior de la acetaia y, en la pestaña <em>Cronología</em>, el cronograma de las acciones realizadas desde 2024.</li>
+<li><a href="./imparare.html">Aprender</a>: qué es el balsámico, el mapa de Módena y Reggio Emilia, las fórmulas para el volumen de los barriles, la luna y las reglas para quien quiera vender.</li>
+<li><a href="./album.html">Álbum</a>: las fotos de nuestra actividad.</li>
+<li><a href="./contatti.html">Contacto</a>: para el vinagre y para las visitas a la acetaia.</li>
+</ul>
+</section>
+<section id="explorez-le-site" class="level3 l" lang="fr">
+<h3 class="anchored" data-anchor-id="explorez-le-site">Explorez le site</h3>
+<ul>
+<li><a href="./acetaia.html">L’acetaia</a> : les trois batteries A, B et C, les bois, les mesures d’acidité et de densité, le volume estimé des fûts, les conditions à l’intérieur de l’acetaia et, dans l’onglet <em>Chronologie</em>, le calendrier des actions menées depuis 2024.</li>
+<li><a href="./imparare.html">Apprendre</a> : ce qu’est le balsamique, la carte de Modène et Reggio Emilia, les formules pour le volume des fûts, la lune et les règles pour qui veut vendre.</li>
+<li><a href="./album.html">Album</a> : les photos de notre activité.</li>
+<li><a href="./contatti.html">Contacts</a> : pour le vinaigre et pour les visites de l’acetaia.</li>
+</ul>
+</section>
+<section id="explore-o-site" class="level3 l" lang="pt">
+<h3 class="anchored" data-anchor-id="explore-o-site">Explore o site</h3>
+<ul>
+<li><a href="./acetaia.html">A acetaia</a>: as três baterias A, B e C, as madeiras, as medidas de acidez e densidade, o volume estimado dos barris, as condições no interior da acetaia e, na aba <em>Cronologia</em>, o cronograma das ações realizadas desde 2024.</li>
+<li><a href="./imparare.html">Aprender</a>: o que é o balsâmico, o mapa de Módena e Reggio Emilia, as fórmulas para o volume dos barris, a lua e as regras para quem quer vender.</li>
+<li><a href="./album.html">Álbum</a>: as fotos da nossa atividade.</li>
+<li><a href="./contatti.html">Contatos</a>: para o vinagre e para as visitas à acetaia.</li>
+</ul>
+</section>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiato!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiato!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>Acetaia Insieme · Via Sottargine 26, 41032 Cavezzo (MO) · <a href="index.html"><span class="l" lang="it">Torna alla home</span><span class="l" lang="en">Back to home</span><span class="l" lang="de">Zurück zur Startseite</span><span class="l" lang="es">Volver al inicio</span><span class="l" lang="fr">Retour à l’accueil</span><span class="l" lang="pt">Voltar ao início</span></a></p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

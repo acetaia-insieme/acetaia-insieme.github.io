@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - assets/clima.json
+    - assets/province.json
+    - assets/dati_batterie_acetaia_insieme.csv
+
+website:
+  title: "Acetaia Insieme"
+  favicon: assets/favicon.svg
+  navbar:
+    logo: assets/favicon.svg
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "L'acetaia"
+        href: acetaia.qmd
+      - text: "Imparare"
+        href: imparare.qmd
+      - text: "Album"
+        href: album.qmd
+      - text: "Contatti"
+        href: contatti.qmd
+  page-footer:
+    center: |
+      Acetaia Insieme · Via Sottargine 26, 41032 Cavezzo (MO) · <a href="index.html"><span class="l" lang="it">Torna alla home</span><span class="l" lang="en">Back to home</span><span class="l" lang="de">Zurück zur Startseite</span><span class="l" lang="es">Volver al inicio</span><span class="l" lang="fr">Retour à l'accueil</span><span class="l" lang="pt">Voltar ao início</span></a>
+
+format:
+  html:
+    theme:
+      light: [flatly, assets/theme.scss]
+      dark: [darkly, assets/theme-dark.scss]
+    css: styles.css
+    include-in-header: assets/head.html
+    toc: false
+    page-layout: full
+    lang: it
+    link-external-newwindow: true

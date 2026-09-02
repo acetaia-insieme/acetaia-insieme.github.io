@@ -1,0 +1,67 @@
+---
+pagetitle: "Contatti"
+include-in-header:
+  - text: |
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+      <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+---
+
+```{=html}
+<p class="eyebrow"><span class="l" lang="it">Contatti</span><span class="l" lang="en">Contact</span><span class="l" lang="de">Kontakt</span><span class="l" lang="es">Contacto</span><span class="l" lang="fr">Contacts</span><span class="l" lang="pt">Contatos</span></p>
+<h1><span class="l" lang="it">Scriveteci, o venite a trovarci</span><span class="l" lang="en">Write to us, or come and visit</span><span class="l" lang="de">Schreibt uns, oder kommt vorbei</span><span class="l" lang="es">Escribidnos, o venid a visitarnos</span><span class="l" lang="fr">Écrivez-nous, ou venez nous voir</span><span class="l" lang="pt">Escrevam para nós, ou venham nos visitar</span></h1>
+
+<div class="contact-grid">
+  <div class="contact">
+    <h3><span class="l" lang="it">Per l'aceto balsamico</span><span class="l" lang="en">For the balsamic vinegar</span><span class="l" lang="de">Für den Balsamessig</span><span class="l" lang="es">Para el vinagre balsámico</span><span class="l" lang="fr">Pour le vinaigre balsamique</span><span class="l" lang="pt">Para o vinagre balsâmico</span></h3>
+    <p><strong>Leonardo Capitani</strong></p>
+    <p><span class="l" lang="it">Email:</span><span class="l" lang="en">Email:</span><span class="l" lang="de">E-Mail:</span><span class="l" lang="es">Correo electrónico:</span><span class="l" lang="fr">E-mail :</span><span class="l" lang="pt">E-mail:</span> <a href="mailto:leocapi07@gmail.com">leocapi07@gmail.com</a><br>
+    <span class="l" lang="it">Telefono (Svizzera):</span><span class="l" lang="en">Phone (Switzerland):</span><span class="l" lang="de">Telefon (Schweiz):</span><span class="l" lang="es">Teléfono (Suiza):</span><span class="l" lang="fr">Téléphone (Suisse) :</span><span class="l" lang="pt">Telefone (Suíça):</span> <a href="tel:+41774078378">+41 77 407 83 78</a></p>
+    <p class="l" lang="it">Il nostro è un aceto balsamico familiare: lo produciamo per la famiglia, per regalarlo agli amici e per condividerlo con chi ce lo chiede, come condimento balsamico. Non è un prodotto DOP e non siamo associati al Consorzio.</p>
+    <p class="l" lang="en">Ours is a family balsamic vinegar: we make it for the family, to give to friends and to share with those who ask for it, as a balsamic condiment. It is not a PDO product and we are not associated with the Consortium.</p>
+    <p class="l" lang="de">Unser Balsamessig ist ein Familienprodukt: wir stellen ihn für die Familie her, um ihn Freunden zu schenken und mit denen zu teilen, die danach fragen, als Balsamico-Condimento. Er ist kein DOP-Produkt und wir gehören nicht dem Konsortium an.</p><p class="l" lang="es">El nuestro es un vinagre balsámico familiar: lo producimos para la familia, para regalarlo a los amigos y para compartirlo con quien nos lo pide, como condimento balsámico. No es un producto DOP y no estamos asociados al Consorzio.</p><p class="l" lang="fr">Le nôtre est un vinaigre balsamique familial : nous le produisons pour la famille, pour l'offrir aux amis et pour le partager avec ceux qui nous le demandent, comme condiment balsamique. Ce n'est pas un produit AOP et nous ne sommes pas membres du Consorzio.</p><p class="l" lang="pt">O nosso é um vinagre balsâmico familiar: nós o produzimos para a família, para presentear os amigos e para compartilhá-lo com quem nos pede, como condimento balsâmico. Não é um produto DOP e não somos associados ao Consórcio.</p>
+  </div>
+  <div class="contact">
+    <h3><span class="l" lang="it">Per le visite in acetaia</span><span class="l" lang="en">For visits to the acetaia</span><span class="l" lang="de">Für Besuche in der Acetaia</span><span class="l" lang="es">Para las visitas a la acetaia</span><span class="l" lang="fr">Pour les visites de l'acetaia</span><span class="l" lang="pt">Para as visitas à acetaia</span></h3>
+    <p><strong>Nara Zanoli</strong></p>
+    <p><span class="l" lang="it">Telefono (Italia):</span><span class="l" lang="en">Phone (Italy):</span><span class="l" lang="de">Telefon (Italien):</span><span class="l" lang="es">Teléfono (Italia):</span><span class="l" lang="fr">Téléphone (Italie) :</span><span class="l" lang="pt">Telefone (Itália):</span> <a href="tel:+393409161045">+39 340 916 1045</a></p>
+    <p class="l" lang="it">Contattate Nara per organizzare una visita, vedere le batterie e assaggiare insieme.</p>
+    <p class="l" lang="en">Contact Nara to arrange a visit, see the batteries and taste together.</p>
+    <p class="l" lang="de">Kontaktiert Nara, um einen Besuch zu vereinbaren, die Batterien zu sehen und gemeinsam zu verkosten.</p><p class="l" lang="es">Contactad con Nara para organizar una visita, ver las baterías y catar juntos.</p><p class="l" lang="fr">Contactez Nara pour organiser une visite, voir les batteries et déguster ensemble.</p><p class="l" lang="pt">Entrem em contato com Nara para organizar uma visita, ver as baterias e degustar juntos.</p>
+  </div>
+  <div class="contact">
+    <h3><span class="l" lang="it">Dove siamo</span><span class="l" lang="en">Where we are</span><span class="l" lang="de">Wo wir sind</span><span class="l" lang="es">Dónde estamos</span><span class="l" lang="fr">Où nous sommes</span><span class="l" lang="pt">Onde estamos</span></h3>
+    <p><strong>Acetaia Insieme</strong><br>Via Sottargine, 26<br>41032 Cavezzo (MO)<br><span class="l" lang="it">Italia</span><span class="l" lang="en">Italy</span><span class="l" lang="de">Italien</span><span class="l" lang="es">Italia</span><span class="l" lang="fr">Italie</span><span class="l" lang="pt">Itália</span></p>
+    <p><a href="https://www.google.com/maps/dir/?api=1&destination=Via+Sottargine+26,+41032+Cavezzo+MO,+Italia"><span class="l" lang="it">Indicazioni stradali su Google Maps</span><span class="l" lang="en">Directions on Google Maps</span><span class="l" lang="de">Wegbeschreibung auf Google Maps</span><span class="l" lang="es">Cómo llegar en Google Maps</span><span class="l" lang="fr">Itinéraire sur Google Maps</span><span class="l" lang="pt">Como chegar no Google Maps</span></a></p>
+    <p class="l" lang="it">Cavezzo è nella pianura a nord di Modena, a pochi chilometri dal fiume Secchia. Da Modena: circa 25 km verso nord, uscita Carpi o Mirandola sull'A22.</p>
+    <p class="l" lang="en">Cavezzo is in the plain north of Modena, a few kilometres from the Secchia river. From Modena: about 25 km north, exits Carpi or Mirandola on the A22 motorway.</p>
+    <p class="l" lang="de">Cavezzo liegt in der Ebene nördlich von Modena, wenige Kilometer vom Fluss Secchia entfernt. Von Modena: etwa 25 km nach Norden, Ausfahrten Carpi oder Mirandola auf der A22.</p><p class="l" lang="es">Cavezzo está en la llanura al norte de Módena, a pocos kilómetros del río Secchia. Desde Módena: unos 25 km hacia el norte, salida Carpi o Mirandola en la A22.</p><p class="l" lang="fr">Cavezzo se trouve dans la plaine au nord de Modène, à quelques kilomètres du fleuve Secchia. Depuis Modène : environ 25 km vers le nord, sortie Carpi ou Mirandola sur l'A22.</p><p class="l" lang="pt">Cavezzo fica na planície ao norte de Módena, a poucos quilômetros do rio Secchia. Saindo de Módena: cerca de 25 km para o norte, saída Carpi ou Mirandola na A22.</p>
+  </div>
+  <div class="contact" style="border-color:var(--ai-accent)">
+    <a href="https://wwoof.it/en/host/16611" class="wwoof-logo"><img src="foto/wwoof_italia.png" alt="WWOOF Italia"></a>
+    <h3>WWOOF</h3>
+    <p class="l" lang="it"><strong>Esperienza WWOOF in acetaia.</strong> Siamo host WWOOF Italia: chi vuole dare una mano nell'orto e in acetaia in cambio di vitto, alloggio e di quello che sappiamo, trova il nostro profilo su <a href="https://wwoof.it/en/host/16611">wwoof.it (host 16611)</a>.</p>
+    <p class="l" lang="en"><strong>WWOOF experience at the acetaia.</strong> We are WWOOF Italia hosts: if you want to help in the garden and the acetaia in exchange for food, lodging and what we know, our profile is on <a href="https://wwoof.it/en/host/16611">wwoof.it (host 16611)</a>.</p>
+    <p class="l" lang="de"><strong>WWOOF-Erfahrung in der Acetaia.</strong> Wir sind WWOOF-Italia-Gastgeber: wer im Garten und in der Acetaia mithelfen möchte, gegen Kost, Logis und unser Wissen, findet unser Profil auf <a href="https://wwoof.it/en/host/16611">wwoof.it (Host 16611)</a>.</p><p class="l" lang="es"><strong>Experiencia WWOOF en la acetaia.</strong> Somos anfitriones de WWOOF Italia: quien quiera echar una mano en el huerto y en la acetaia a cambio de comida, alojamiento y de lo que sabemos, encontrará nuestro perfil en <a href="https://wwoof.it/en/host/16611">wwoof.it (host 16611)</a>.</p><p class="l" lang="fr"><strong>Expérience WWOOF dans l'acetaia.</strong> Nous sommes hôtes WWOOF Italia : qui veut donner un coup de main au potager et dans l'acetaia en échange du gîte, du couvert et de ce que nous savons trouvera notre profil sur <a href="https://wwoof.it/en/host/16611">wwoof.it (hôte 16611)</a>.</p><p class="l" lang="pt"><strong>Experiência WWOOF na acetaia.</strong> Somos anfitriões WWOOF Italia: quem quiser dar uma mão na horta e na acetaia em troca de alimentação, hospedagem e do que sabemos, encontra o nosso perfil em <a href="https://wwoof.it/en/host/16611">wwoof.it (host 16611)</a>.</p>
+  </div>
+</div>
+
+<div id="map"></div>
+<p><small><span class="l" lang="it">Mappa: OpenStreetMap.</span><span class="l" lang="en">Map: OpenStreetMap.</span><span class="l" lang="de">Karte: OpenStreetMap.</span><span class="l" lang="es">Mapa: OpenStreetMap.</span><span class="l" lang="fr">Carte : OpenStreetMap.</span><span class="l" lang="pt">Mapa: OpenStreetMap.</span></small></p>
+
+<div class="callout-ai gold">
+  <p class="eyebrow">al vasèl</p>
+  <p class="l" lang="it">Facciamo parte della <a href="https://www.alvasel.com">community del Balsamico familiare al vasèl</a>: un grande insieme di famiglie che producono aceto per le proprie necessità, per regalarlo agli amici e per condividere conoscenza. Sul <a href="https://www.youtube.com/c/alvasel">canale YouTube al vasèl</a> Max Forni spiega come si fa il balsamico.</p>
+  <p class="l" lang="en">We belong to the <a href="https://www.alvasel.com">al vasèl community of family balsamic makers</a>: a large gathering of families who make vinegar for their own needs, to give to friends and to share knowledge. On the <a href="https://www.youtube.com/c/alvasel">al vasèl YouTube channel</a> Max Forni explains how balsamic vinegar is made.</p>
+  <p class="l" lang="de">Wir gehören zur <a href="https://www.alvasel.com">al vasèl-Community des familiären Balsamico</a>: ein großer Kreis von Familien, die Essig für den Eigenbedarf, als Geschenk für Freunde und zum Wissensaustausch herstellen. Auf dem <a href="https://www.youtube.com/c/alvasel">YouTube-Kanal al vasèl</a> erklärt Max Forni, wie Balsamessig entsteht.</p><p class="l" lang="es">Formamos parte de la <a href="https://www.alvasel.com">comunidad del Balsámico familiar al vasèl</a>: un gran conjunto de familias que producen vinagre para sus propias necesidades, para regalarlo a los amigos y para compartir conocimiento. En el <a href="https://www.youtube.com/c/alvasel">canal de YouTube al vasèl</a> Max Forni explica cómo se hace el balsámico.</p><p class="l" lang="fr">Nous faisons partie de la <a href="https://www.alvasel.com">communauté du Balsamique familial al vasèl</a> : un grand ensemble de familles qui produisent du vinaigre pour leurs propres besoins, pour l'offrir aux amis et pour partager leurs connaissances. Sur la <a href="https://www.youtube.com/c/alvasel">chaîne YouTube al vasèl</a>, Max Forni explique comment se fait le balsamique.</p><p class="l" lang="pt">Fazemos parte da <a href="https://www.alvasel.com">comunidade do Balsâmico familiar al vasèl</a>: um grande conjunto de famílias que produzem vinagre para as próprias necessidades, para presentear os amigos e para compartilhar conhecimento. No <a href="https://www.youtube.com/c/alvasel">canal do YouTube al vasèl</a> Max Forni explica como se faz o balsâmico.</p>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function(){
+  if(!window.L) return;
+  var map=L.map('map',{scrollWheelZoom:false}).setView([44.8291,10.9727],13);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; OpenStreetMap'}).addTo(map);
+  L.marker([44.8291,10.9727]).addTo(map).bindPopup('<b>Acetaia Insieme</b><br>Via Sottargine 26<br>41032 Cavezzo (MO)',{minWidth:200}).openPopup();
+  if(window.ResizeObserver){ new ResizeObserver(function(){ map.invalidateSize(); }).observe(document.getElementById('map')); }
+});
+</script>
+```
