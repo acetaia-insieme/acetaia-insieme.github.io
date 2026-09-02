@@ -25,7 +25,7 @@ website:
         href: contatti.qmd
   page-footer:
     center: |
-      Acetaia Insieme · Via Sottargine 26, 41032 Cavezzo (MO) · <a href="index.html"><span class="l" lang="it">Torna alla home</span><span class="l" lang="en">Back to home</span><span class="l" lang="de">Zurück zur Startseite</span><span class="l" lang="es">Volver al inicio</span><span class="l" lang="fr">Retour à l'accueil</span><span class="l" lang="pt">Voltar ao início</span></a>
+      Acetaia Insieme · Via Sott'Argine 26, Ponte Motta, frazione di Cavezzo, 41032, provincia di Modena · <a href="index.html"><span class="l" lang="it">Torna alla home</span><span class="l" lang="en">Back to home</span><span class="l" lang="de">Zurück zur Startseite</span><span class="l" lang="es">Volver al inicio</span><span class="l" lang="fr">Retour à l'accueil</span><span class="l" lang="pt">Voltar ao início</span></a>
 
 format:
   html:

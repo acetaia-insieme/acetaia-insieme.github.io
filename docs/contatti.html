@@ -336,8 +336,8 @@ ul.task-list li input[type="checkbox"] {
   </div>
   <div class="contact">
     <h3 class="anchored"><span class="l" lang="it">Dove siamo</span><span class="l" lang="en">Where we are</span><span class="l" lang="de">Wo wir sind</span><span class="l" lang="es">Dónde estamos</span><span class="l" lang="fr">Où nous sommes</span><span class="l" lang="pt">Onde estamos</span></h3>
-    <p><strong>Acetaia Insieme</strong><br>Via Sottargine, 26<br>41032 Cavezzo (MO)<br><span class="l" lang="it">Italia</span><span class="l" lang="en">Italy</span><span class="l" lang="de">Italien</span><span class="l" lang="es">Italia</span><span class="l" lang="fr">Italie</span><span class="l" lang="pt">Itália</span></p>
-    <p><a href="https://www.google.com/maps/dir/?api=1&amp;destination=Via+Sottargine+26,+41032+Cavezzo+MO,+Italia"><span class="l" lang="it">Indicazioni stradali su Google Maps</span><span class="l" lang="en">Directions on Google Maps</span><span class="l" lang="de">Wegbeschreibung auf Google Maps</span><span class="l" lang="es">Cómo llegar en Google Maps</span><span class="l" lang="fr">Itinéraire sur Google Maps</span><span class="l" lang="pt">Como chegar no Google Maps</span></a></p>
+    <p><strong>Acetaia Insieme</strong><br>Via Sott'Argine 26<br>Ponte Motta, frazione di Cavezzo<br>41032 Cavezzo, provincia di Modena<br><span class="l" lang="it">Italia</span><span class="l" lang="en">Italy</span><span class="l" lang="de">Italien</span><span class="l" lang="es">Italia</span><span class="l" lang="fr">Italie</span><span class="l" lang="pt">Itália</span></p>
+    <p><a href="https://www.google.com/maps/dir/?api=1&amp;destination=Via+Sott'Argine+26,+Ponte+Motta,+41032+Cavezzo+MO,+Italia"><span class="l" lang="it">Indicazioni stradali su Google Maps</span><span class="l" lang="en">Directions on Google Maps</span><span class="l" lang="de">Wegbeschreibung auf Google Maps</span><span class="l" lang="es">Cómo llegar en Google Maps</span><span class="l" lang="fr">Itinéraire sur Google Maps</span><span class="l" lang="pt">Como chegar no Google Maps</span></a></p>
     <p class="l" lang="it">Cavezzo è nella pianura a nord di Modena, a pochi chilometri dal fiume Secchia. Da Modena: circa 25 km verso nord, uscita Carpi o Mirandola sull'A22.</p>
     <p class="l" lang="en">Cavezzo is in the plain north of Modena, a few kilometres from the Secchia river. From Modena: about 25 km north, exits Carpi or Mirandola on the A22 motorway.</p>
     <p class="l" lang="de">Cavezzo liegt in der Ebene nördlich von Modena, wenige Kilometer vom Fluss Secchia entfernt. Von Modena: etwa 25 km nach Norden, Ausfahrten Carpi oder Mirandola auf der A22.</p><p class="l" lang="es">Cavezzo está en la llanura al norte de Módena, a pocos kilómetros del río Secchia. Desde Módena: unos 25 km hacia el norte, salida Carpi o Mirandola en la A22.</p><p class="l" lang="fr">Cavezzo se trouve dans la plaine au nord de Modène, à quelques kilomètres du fleuve Secchia. Depuis Modène : environ 25 km vers le nord, sortie Carpi ou Mirandola sur l'A22.</p><p class="l" lang="pt">Cavezzo fica na planície ao norte de Módena, a poucos quilômetros do rio Secchia. Saindo de Módena: cerca de 25 km para o norte, saída Carpi ou Mirandola na A22.</p>
@@ -366,7 +366,7 @@ document.addEventListener('DOMContentLoaded', function(){
   if(!window.L) return;
   var map=L.map('map',{scrollWheelZoom:false}).setView([44.8291,10.9727],13);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; OpenStreetMap'}).addTo(map);
-  L.marker([44.8291,10.9727]).addTo(map).bindPopup('<b>Acetaia Insieme</b><br>Via Sottargine 26<br>41032 Cavezzo (MO)',{minWidth:200}).openPopup();
+  L.marker([44.8291,10.9727]).addTo(map).bindPopup('<b>Acetaia Insieme</b><br>Via Sott'Argine 26<br>Ponte Motta, frazione di Cavezzo<br>41032, provincia di Modena',{minWidth:200}).openPopup();
   if(window.ResizeObserver){ new ResizeObserver(function(){ map.invalidateSize(); }).observe(document.getElementById('map')); }
 });
 </script>
@@ -799,7 +799,7 @@ document.addEventListener('DOMContentLoaded', function(){
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>Acetaia Insieme · Via Sottargine 26, 41032 Cavezzo (MO) · <a href="index.html"><span class="l" lang="it">Torna alla home</span><span class="l" lang="en">Back to home</span><span class="l" lang="de">Zurück zur Startseite</span><span class="l" lang="es">Volver al inicio</span><span class="l" lang="fr">Retour à l’accueil</span><span class="l" lang="pt">Voltar ao início</span></a></p>
+<p>Acetaia Insieme · Via Sott’Argine 26, Ponte Motta, frazione di Cavezzo, 41032, provincia di Modena · <a href="index.html"><span class="l" lang="it">Torna alla home</span><span class="l" lang="en">Back to home</span><span class="l" lang="de">Zurück zur Startseite</span><span class="l" lang="es">Volver al inicio</span><span class="l" lang="fr">Retour à l’accueil</span><span class="l" lang="pt">Voltar ao início</span></a></p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
