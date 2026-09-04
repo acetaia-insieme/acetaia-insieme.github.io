@@ -389,9 +389,10 @@ Ogni legno dà qualcosa di diverso al balsamico. Basilari sono il **castagno** e
 - **Rovere**: notevoli doti per l'invecchiamento, sapore deciso.
 - **Ciliegio** e **gelso**: aroma morbido e fruttato.
 - **Ginepro**: aromaticità marcata. È più consigliabile avere qualche doga di ginepro in un vasello di altro legno, piuttosto che un vasello interamente di ginepro, per due ragioni: l'aromatizzazione e il costo, entrambi eccessivi.
+- **Acacia**: legno tradizionale della batteria modenese, dal carattere neutro e delicato, che lascia parlare gli altri legni.
 - **Frassino** e altri legni compaiono a volte negli elenchi, ma le loro peculiarità sono meno documentate.
 
-Nella nostra batteria B ci sono rovere (20, 30 e 60 L), frassino (30 L), ciliegio (40 L) e castagno (50 L).
+Nelle nostre batterie, dalla botte più piccola alla più grande: la A ha rovere (15 e 20 L), ciliegio (30 L), gelso (40 L) e acacia (50 L); la B rovere (20 e 30 L), frassino (30 L), ciliegio (40 L), castagno (50 L) e rovere (60 L); la C rovere (20 L), ciliegio (30 L), gelso (40 L), acacia (50 L) e rovere (60 L).
 :::
 ::: {.l lang=en}
 Each wood gives something different to the vinegar. The basic woods are **chestnut** and **oak**.
@@ -400,9 +401,10 @@ Each wood gives something different to the vinegar. The basic woods are **chestn
 - **Oak**: remarkable ageing qualities, a decisive flavour.
 - **Cherry** and **mulberry**: a soft, fruity aroma.
 - **Juniper**: a marked aromatic character. It is better to have a few juniper staves in a cask of another wood than a cask entirely made of juniper, for two reasons: the aroma and the cost, both excessive.
+- **Acacia**: a traditional wood of the Modena battery, neutral and delicate in character, which lets the other woods speak.
 - **Ash** and other woods sometimes appear in lists, but their specific qualities are less documented.
 
-Our battery B has oak (20, 30 and 60 L), ash (30 L), cherry (40 L) and chestnut (50 L).
+In our batteries, from the smallest barrel to the largest: A has oak (15 and 20 L), cherry (30 L), mulberry (40 L) and acacia (50 L); B oak (20 and 30 L), ash (30 L), cherry (40 L), chestnut (50 L) and oak (60 L); C oak (20 L), cherry (30 L), mulberry (40 L), acacia (50 L) and oak (60 L).
 :::
 ::: {.l lang=de}
 Jedes Holz gibt dem Essig etwas anderes. Die Grundhölzer sind **Kastanie** und **Eiche**.
@@ -411,9 +413,10 @@ Jedes Holz gibt dem Essig etwas anderes. Die Grundhölzer sind **Kastanie** und 
 - **Eiche**: hervorragende Reifeeigenschaften, entschiedener Geschmack.
 - **Kirsche** und **Maulbeere**: weiches, fruchtiges Aroma.
 - **Wacholder**: ausgeprägte Aromatik. Besser einige Wacholderdauben in einem Fass aus anderem Holz als ein ganzes Wacholderfass, aus zwei Gründen: Aromatisierung und Kosten, beide zu hoch.
+- **Akazie**: ein traditionelles Holz der Modeneser Batterie, neutral und zart im Charakter, das die anderen Hölzer sprechen lässt.
 - **Esche** und andere Hölzer tauchen manchmal in Listen auf, ihre Eigenheiten sind aber weniger dokumentiert.
 
-Unsere Batterie B hat Eiche (20, 30 und 60 L), Esche (30 L), Kirsche (40 L) und Kastanie (50 L).
+In unseren Batterien, vom kleinsten zum größten Fass: A hat Eiche (15 und 20 L), Kirsche (30 L), Maulbeere (40 L) und Akazie (50 L); B Eiche (20 und 30 L), Esche (30 L), Kirsche (40 L), Kastanie (50 L) und Eiche (60 L); C Eiche (20 L), Kirsche (30 L), Maulbeere (40 L), Akazie (50 L) und Eiche (60 L).
 :::
 ::: {.l lang=es}
 Cada madera aporta algo distinto al balsámico. Las básicas son el **castaño** y el **roble**.
@@ -422,9 +425,10 @@ Cada madera aporta algo distinto al balsámico. Las básicas son el **castaño**
 - **Roble**: notables cualidades para el envejecimiento, sabor marcado.
 - **Cerezo** y **morera**: aroma suave y afrutado.
 - **Enebro**: aromaticidad intensa. Es más aconsejable tener alguna duela de enebro en un barrilito de otra madera que un barrilito enteramente de enebro, por dos razones: la aromatización y el coste, ambos excesivos.
+- **Acacia**: madera tradicional de la batería modenesa, de carácter neutro y delicado, que deja hablar a las otras maderas.
 - **Fresno** y otras maderas aparecen a veces en las listas, pero sus peculiaridades están menos documentadas.
 
-En nuestra batería B hay roble (20, 30 y 60 L), fresno (30 L), cerezo (40 L) y castaño (50 L).
+En nuestras baterías, del barril más pequeño al más grande: la A tiene roble (15 y 20 L), cerezo (30 L), morera (40 L) y acacia (50 L); la B roble (20 y 30 L), fresno (30 L), cerezo (40 L), castaño (50 L) y roble (60 L); la C roble (20 L), cerezo (30 L), morera (40 L), acacia (50 L) y roble (60 L).
 :::
 ::: {.l lang=fr}
 Chaque bois apporte quelque chose de différent au balsamique. Les bois de base sont le **châtaignier** et le **chêne**.
@@ -433,9 +437,10 @@ Chaque bois apporte quelque chose de différent au balsamique. Les bois de base 
 - **Chêne** : remarquables qualités pour le vieillissement, goût affirmé.
 - **Cerisier** et **mûrier** : arôme doux et fruité.
 - **Genévrier** : aromaticité marquée. Il est plus conseillé d'avoir quelques douelles de genévrier dans un petit fût d'un autre bois plutôt qu'un petit fût entièrement en genévrier, pour deux raisons : l'aromatisation et le coût, tous deux excessifs.
+- **Acacia** : bois traditionnel de la batterie modénaise, au caractère neutre et délicat, qui laisse parler les autres bois.
 - **Frêne** et d'autres bois apparaissent parfois dans les listes, mais leurs particularités sont moins documentées.
 
-Dans notre batterie B, il y a du chêne (20, 30 et 60 L), du frêne (30 L), du cerisier (40 L) et du châtaignier (50 L).
+Dans nos batteries, du plus petit fût au plus grand : la A a du chêne (15 et 20 L), du cerisier (30 L), du mûrier (40 L) et de l'acacia (50 L) ; la B du chêne (20 et 30 L), du frêne (30 L), du cerisier (40 L), du châtaignier (50 L) et du chêne (60 L) ; la C du chêne (20 L), du cerisier (30 L), du mûrier (40 L), de l'acacia (50 L) et du chêne (60 L).
 :::
 ::: {.l lang=pt}
 Cada madeira dá algo diferente ao balsâmico. As básicas são a **castanheira** e o **carvalho**.
@@ -444,9 +449,10 @@ Cada madeira dá algo diferente ao balsâmico. As básicas são a **castanheira*
 - **Carvalho**: notáveis qualidades para o envelhecimento, sabor marcante.
 - **Cerejeira** e **amoreira**: aroma suave e frutado.
 - **Zimbro**: aromaticidade acentuada. É mais recomendável ter algumas aduelas de zimbro em um barrilete de outra madeira do que um barrilete inteiramente de zimbro, por duas razões: a aromatização e o custo, ambos excessivos.
+- **Acácia**: madeira tradicional da bateria modenesa, de caráter neutro e delicado, que deixa as outras madeiras falarem.
 - **Freixo** e outras madeiras aparecem às vezes nas listas, mas as suas peculiaridades são menos documentadas.
 
-Na nossa bateria B há carvalho (20, 30 e 60 L), freixo (30 L), cerejeira (40 L) e castanheira (50 L).
+Nas nossas baterias, do barril menor ao maior: a A tem carvalho (15 e 20 L), cerejeira (30 L), amoreira (40 L) e acácia (50 L); a B carvalho (20 e 30 L), freixo (30 L), cerejeira (40 L), castanheira (50 L) e carvalho (60 L); a C carvalho (20 L), cerejeira (30 L), amoreira (40 L), acácia (50 L) e carvalho (60 L).
 :::
 
 ## [Appunti di acetaia]{.l lang=it}[Acetaia notes]{.l lang=en}[Notizen aus der Acetaia]{.l lang=de}[Apuntes de acetaia]{.l lang=es}[Notes d'acetaia]{.l lang=fr}[Anotações da acetaia]{.l lang=pt}
