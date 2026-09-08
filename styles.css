@@ -168,3 +168,7 @@ figure.plain img { border-radius: 12px; max-width: 100%; }
 
 .values-note { background: var(--ai-card); border-left:4px solid var(--ai-accent); border-radius:0 10px 10px 0; padding:.7rem 1rem; font-size:.95rem; margin:1rem 0; }
 .tab-anchor { position: relative; top: -80px; height: 0; }
+
+.verbale { margin: 1.25rem 0; max-width: 520px; }
+.verbale img { width:100%; height:auto; border-radius:12px; border:1px solid var(--ai-line); display:block; }
+.verbale figcaption { color: var(--ai-muted); font-size:.85rem; margin-top:.4rem; }
