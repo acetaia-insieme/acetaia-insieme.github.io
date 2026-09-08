@@ -192,7 +192,7 @@ A acetaia fica na Via Sott'Argine 26, em Ponte Motta, distrito de Cavezzo, prov�
 ::: {.l lang=it}
 ### Esplora il sito
 
-- [L'acetaia](acetaia.qmd): le tre batterie A, B e C, i legni, le misure di acidità e densità, il volume stimato delle botti, le condizioni all'interno dell'acetaia e, nella scheda *Cronologia*, il cronogramma delle azioni compiute dal 2024.
+- [L'acetaia](acetaia.qmd): le tre [batterie](acetaia.qmd#batterie) A, B e C, le [misure di acidità e densità](acetaia.qmd#misure-grafici), il [volume stimato delle botti](acetaia.qmd#volume-botti), [temperatura e umidità](acetaia.qmd#temperatura-umidita) e la [cronologia](acetaia.qmd#cronologia) delle azioni compiute dal 2024.
 - [Imparare](imparare.qmd): che cos'è il balsamico, la mappa di Modena e Reggio Emilia, le formule per il volume delle botti, la luna e le regole per chi vuole vendere.
 - [Album](album.qmd): le foto della nostra attività.
 - [Contatti](contatti.qmd): per l'aceto e per le visite in acetaia.
@@ -201,7 +201,7 @@ A acetaia fica na Via Sott'Argine 26, em Ponte Motta, distrito de Cavezzo, prov�
 ::: {.l lang=en}
 ### Explore the site
 
-- [The acetaia](acetaia.qmd): the three batteries A, B and C, the woods, acidity and density measurements, the estimated barrel volumes, the conditions inside the acetaia and, in the *Timeline* tab, the chronogram of everything done since 2024.
+- [The acetaia](acetaia.qmd): the three [batteries](acetaia.qmd#batterie) A, B and C, the [acidity and density measurements](acetaia.qmd#misure-grafici), the [estimated barrel volumes](acetaia.qmd#volume-botti), [temperature and humidity](acetaia.qmd#temperatura-umidita) and the [timeline](acetaia.qmd#cronologia) of everything done since 2024.
 - [Learn](imparare.qmd): what balsamic vinegar is, the map of Modena and Reggio Emilia, the formulas for barrel volume, the moon and the rules for those who want to sell.
 - [Album](album.qmd): photos of our activity.
 - [Contact](contatti.qmd): for the vinegar and for visits to the acetaia.
@@ -210,7 +210,7 @@ A acetaia fica na Via Sott'Argine 26, em Ponte Motta, distrito de Cavezzo, prov�
 ::: {.l lang=de}
 ### Die Seite entdecken
 
-- [Die Acetaia](acetaia.qmd): die drei Batterien A, B und C, die Hölzer, Säure- und Dichtemessungen, das geschätzte Fassvolumen, die Bedingungen im Inneren der Acetaia und, im Reiter *Chronik*, das Chronogramm aller Arbeiten seit 2024.
+- [Die Acetaia](acetaia.qmd): die drei [Batterien](acetaia.qmd#batterie) A, B und C, die [Säure- und Dichtemessungen](acetaia.qmd#misure-grafici), das [geschätzte Fassvolumen](acetaia.qmd#volume-botti), [Temperatur und Luftfeuchte](acetaia.qmd#temperatura-umidita) und die [Chronik](acetaia.qmd#cronologia) aller Arbeiten seit 2024.
 - [Lernen](imparare.qmd): was Balsamessig ist, die Karte von Modena und Reggio Emilia, die Formeln für das Fassvolumen, der Mond und die Regeln für den Verkauf.
 - [Album](album.qmd): Fotos unserer Tätigkeit.
 - [Kontakt](contatti.qmd): für den Essig und für Besuche in der Acetaia.
@@ -218,7 +218,7 @@ A acetaia fica na Via Sott'Argine 26, em Ponte Motta, distrito de Cavezzo, prov�
 ::: {.l lang=es}
 ### Explora el sitio
 
-- [La acetaia](acetaia.qmd): las tres baterías A, B y C, las maderas, las medidas de acidez y densidad, el volumen estimado de los barriles, las condiciones en el interior de la acetaia y, en la pestaña *Cronología*, el cronograma de las acciones realizadas desde 2024.
+- [La acetaia](acetaia.qmd): las tres [baterías](acetaia.qmd#batterie) A, B y C, las [medidas de acidez y densidad](acetaia.qmd#misure-grafici), el [volumen estimado de los barriles](acetaia.qmd#volume-botti), [temperatura y humedad](acetaia.qmd#temperatura-umidita) y la [cronología](acetaia.qmd#cronologia) de las acciones realizadas desde 2024.
 - [Aprender](imparare.qmd): qué es el balsámico, el mapa de Módena y Reggio Emilia, las fórmulas para el volumen de los barriles, la luna y las reglas para quien quiera vender.
 - [Álbum](album.qmd): las fotos de nuestra actividad.
 - [Contacto](contatti.qmd): para el vinagre y para las visitas a la acetaia.
@@ -226,7 +226,7 @@ A acetaia fica na Via Sott'Argine 26, em Ponte Motta, distrito de Cavezzo, prov�
 ::: {.l lang=fr}
 ### Explorez le site
 
-- [L'acetaia](acetaia.qmd) : les trois batteries A, B et C, les bois, les mesures d'acidité et de densité, le volume estimé des fûts, les conditions à l'intérieur de l'acetaia et, dans l'onglet *Chronologie*, le calendrier des actions menées depuis 2024.
+- [L'acetaia](acetaia.qmd) : les trois [batteries](acetaia.qmd#batterie) A, B et C, les [mesures d'acidité et de densité](acetaia.qmd#misure-grafici), le [volume estimé des fûts](acetaia.qmd#volume-botti), [température et humidité](acetaia.qmd#temperatura-umidita) et la [chronologie](acetaia.qmd#cronologia) des actions menées depuis 2024.
 - [Apprendre](imparare.qmd) : ce qu'est le balsamique, la carte de Modène et Reggio Emilia, les formules pour le volume des fûts, la lune et les règles pour qui veut vendre.
 - [Album](album.qmd) : les photos de notre activité.
 - [Contacts](contatti.qmd) : pour le vinaigre et pour les visites de l'acetaia.
@@ -234,7 +234,7 @@ A acetaia fica na Via Sott'Argine 26, em Ponte Motta, distrito de Cavezzo, prov�
 ::: {.l lang=pt}
 ### Explore o site
 
-- [A acetaia](acetaia.qmd): as três baterias A, B e C, as madeiras, as medidas de acidez e densidade, o volume estimado dos barris, as condições no interior da acetaia e, na aba *Cronologia*, o cronograma das ações realizadas desde 2024.
+- [A acetaia](acetaia.qmd): as três [baterias](acetaia.qmd#batterie) A, B e C, as [medidas de acidez e densidade](acetaia.qmd#misure-grafici), o [volume estimado dos barris](acetaia.qmd#volume-botti), [temperatura e umidade](acetaia.qmd#temperatura-umidita) e a [cronologia](acetaia.qmd#cronologia) das ações realizadas desde 2024.
 - [Aprender](imparare.qmd): o que é o balsâmico, o mapa de Módena e Reggio Emilia, as fórmulas para o volume dos barris, a lua e as regras para quem quer vender.
 - [Álbum](album.qmd): as fotos da nossa atividade.
 - [Contatos](contatti.qmd): para o vinagre e para as visitas à acetaia.
