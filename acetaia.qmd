@@ -246,6 +246,47 @@ Desde 20 de outubro de 2024 um datalogger registra a cada duas horas a temperatu
 </ul>
 ```
 
+## [Premi]{.l lang=it}[Awards]{.l lang=en}[Auszeichnungen]{.l lang=de}[Premios]{.l lang=es}[Prix]{.l lang=fr}[Prêmios]{.l lang=pt}
+
+```{=html}
+<div id="premi" class="tab-anchor"></div>
+```
+
+::: {.l lang=it}
+Al **52° Palio di San Giovanni** di Spilamberto, nel 2018, la **batteria B, barile 1** ha ricevuto una valutazione di **322,125 punti**, classificandosi al **2° posto su 1451 partecipanti** ([vedi i risultati](https://www.consorteria-abtm.it/wp-content/uploads/2020/03/52-PALIO-2018b.pdf)).
+
+A nome dell'Acetaia Insieme ringraziamo il precedente proprietario, **Marco Morandi** di Formigine, che fino al 2024 ha mantenuto la batteria B a questi livelli di eccellenza. Ora tocca a noi l'ardua impresa di mantenere la qualità e produrre un eccellente aceto balsamico.
+:::
+::: {.l lang=en}
+At the **52nd Palio di San Giovanni** in Spilamberto, in 2018, **battery B, barrel 1** was awarded **322.125 points**, taking **2nd place out of 1,451 entries** ([see the results](https://www.consorteria-abtm.it/wp-content/uploads/2020/03/52-PALIO-2018b.pdf)).
+
+On behalf of Acetaia Insieme we thank the previous owner, **Marco Morandi** of Formigine, who kept battery B at this level of excellence until 2024. Now it is up to us to take on the hard task of keeping that quality and producing an excellent balsamic vinegar.
+:::
+::: {.l lang=de}
+Beim **52. Palio di San Giovanni** in Spilamberto erhielt 2018 die **Batterie B, Fass 1** eine Bewertung von **322,125 Punkten** und belegte damit den **2. Platz unter 1451 Teilnehmern** ([Ergebnisse ansehen](https://www.consorteria-abtm.it/wp-content/uploads/2020/03/52-PALIO-2018b.pdf)).
+
+Im Namen der Acetaia Insieme danken wir dem Vorbesitzer, **Marco Morandi** aus Formigine, der die Batterie B bis 2024 auf diesem Niveau gehalten hat. Nun liegt es an uns, die schwierige Aufgabe zu übernehmen, diese Qualität zu bewahren und einen ausgezeichneten Balsamessig zu erzeugen.
+:::
+::: {.l lang=es}
+En el **52.º Palio di San Giovanni** de Spilamberto, en 2018, la **batería B, barril 1** obtuvo una valoración de **322,125 puntos** y se clasificó en **2.º lugar entre 1451 participantes** ([ver los resultados](https://www.consorteria-abtm.it/wp-content/uploads/2020/03/52-PALIO-2018b.pdf)).
+
+En nombre de la Acetaia Insieme damos las gracias al anterior propietario, **Marco Morandi** de Formigine, que hasta 2024 mantuvo la batería B en estos niveles de excelencia. Ahora nos toca a nosotros la ardua tarea de mantener la calidad y producir un excelente vinagre balsámico.
+:::
+::: {.l lang=fr}
+Au **52e Palio di San Giovanni** de Spilamberto, en 2018, la **batterie B, fût 1** a obtenu une note de **322,125 points**, se classant **2e sur 1451 participants** ([voir les résultats](https://www.consorteria-abtm.it/wp-content/uploads/2020/03/52-PALIO-2018b.pdf)).
+
+Au nom de l'Acetaia Insieme, nous remercions le précédent propriétaire, **Marco Morandi** de Formigine, qui a maintenu la batterie B à ce niveau d'excellence jusqu'en 2024. C'est désormais à nous qu'incombe la tâche difficile de préserver cette qualité et de produire un excellent vinaigre balsamique.
+:::
+::: {.l lang=pt}
+No **52.º Palio di San Giovanni** de Spilamberto, em 2018, a **bateria B, barril 1** recebeu uma avaliação de **322,125 pontos**, classificando-se em **2.º lugar entre 1451 participantes** ([ver os resultados](https://www.consorteria-abtm.it/wp-content/uploads/2020/03/52-PALIO-2018b.pdf)).
+
+Em nome da Acetaia Insieme agradecemos ao proprietário anterior, **Marco Morandi** de Formigine, que até 2024 manteve a bateria B nesses níveis de excelência. Agora cabe a nós a árdua missão de manter a qualidade e produzir um excelente vinagre balsâmico.
+:::
+
+```{=html}
+<p class="values-note"><span class="l" lang="it">Scheda del campione n. 681: acidità/peso 5,594 · 76,94 °Brix · densità 1,404 · acidità/volume 7,854 · indice R 9,796 · <strong>322,125 punti su 400</strong> · "Eccellente finalista", Consorteria dell'Aceto Balsamico Tradizionale di Spilamberto.</span><span class="l" lang="en">Sample no. 681: acidity/weight 5.594 · 76.94 °Brix · density 1.404 · acidity/volume 7.854 · R index 9.796 · <strong>322.125 points out of 400</strong> · "Excellent finalist", Consorteria dell'Aceto Balsamico Tradizionale di Spilamberto.</span><span class="l" lang="de">Probe Nr. 681: Säure/Gewicht 5,594 · 76,94 °Brix · Dichte 1,404 · Säure/Volumen 7,854 · R-Index 9,796 · <strong>322,125 von 400 Punkten</strong> · „Ausgezeichneter Finalist", Consorteria dell'Aceto Balsamico Tradizionale di Spilamberto.</span><span class="l" lang="es">Muestra n.º 681: acidez/peso 5,594 · 76,94 °Brix · densidad 1,404 · acidez/volumen 7,854 · índice R 9,796 · <strong>322,125 puntos sobre 400</strong> · "Excelente finalista", Consorteria dell'Aceto Balsamico Tradizionale di Spilamberto.</span><span class="l" lang="fr">Échantillon n° 681 : acidité/poids 5,594 · 76,94 °Brix · densité 1,404 · acidité/volume 7,854 · indice R 9,796 · <strong>322,125 points sur 400</strong> · « Excellent finaliste », Consorteria dell'Aceto Balsamico Tradizionale di Spilamberto.</span><span class="l" lang="pt">Amostra n.º 681: acidez/peso 5,594 · 76,94 °Brix · densidade 1,404 · acidez/volume 7,854 · índice R 9,796 · <strong>322,125 pontos em 400</strong> · "Excelente finalista", Consorteria dell'Aceto Balsamico Tradizionale di Spilamberto.</span></p>
+```
+
 :::
 
 ```{=html}
