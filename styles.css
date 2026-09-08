@@ -134,9 +134,9 @@ figure.plain img { border-radius: 12px; max-width: 100%; }
 .fienile-icon { padding-top:.4rem; }
 @media (max-width:600px){ .callout-ai.fienile { grid-template-columns:1fr; } }
 
-.batterie-foto { margin: 1.5rem auto 2rem; max-width: 520px; }
+.batterie-foto { margin: 1.5rem 0 2rem; max-width: 520px; }
 .batterie-foto img { width:100%; height:auto; border-radius:16px; display:block; box-shadow: 0 8px 24px rgba(0,0,0,.10); }
-.batterie-foto figcaption { color: var(--ai-muted); font-size:.85rem; margin-top:.5rem; text-align:center; }
+.batterie-foto figcaption { color: var(--ai-muted); font-size:.85rem; margin-top:.5rem; }
 
 /* ---------- tabset as a side index ---------- */
 .panel-tabset { display: grid; grid-template-columns: 230px minmax(0, 1fr); gap: 1.75rem; align-items: start; margin: 1.5rem 0 2rem; }
