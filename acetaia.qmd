@@ -40,6 +40,10 @@ A Acetaia Insieme é composta por três baterias, A, B e C, adquiridas em 2024 e
 
 ## [Batterie]{.l lang=it}[Batteries]{.l lang=en}[Batterien]{.l lang=de}[Baterías]{.l lang=es}[Batteries]{.l lang=fr}[Baterias]{.l lang=pt}
 
+```{=html}
+<div id="batterie" class="tab-anchor"></div>
+```
+
 ::: {.l lang=it}
 Ogni batteria è una fila di botti di volume decrescente: ogni anno si preleva dalla più piccola e si rincalza a cascata dalla più grande, che riceve il mosto cotto nuovo. I disegni mostrano la composizione delle nostre tre batterie; i colori indicano il legno. Le batterie A e C offrono un aceto invecchiato tra 12 e 24 anni; la batteria B un extravecchio con più di 25 anni. Castagno e rovere sono i legni basilari; ciliegio, gelso, acacia e frassino aggiungono le loro note. Il ruolo di ogni legno è spiegato nella pagina [Imparare](imparare.qmd).
 :::
@@ -70,6 +74,10 @@ Cada bateria é uma fileira de barris de volume decrescente: todo ano se retira 
 ```
 
 ## [Misure e grafici]{.l lang=it}[Measurements and charts]{.l lang=en}[Messungen und Grafiken]{.l lang=de}[Medidas y gráficos]{.l lang=es}[Mesures et graphiques]{.l lang=fr}[Medições e gráficos]{.l lang=pt}
+
+```{=html}
+<div id="misure-grafici" class="tab-anchor"></div>
+```
 
 ::: {.l lang=it}
 Seguiamo le tre batterie con due parametri fondamentali, misurati botte per botte.
@@ -151,6 +159,10 @@ Algumas medições são análises de laboratório, as outras fazemos em casa. Ú
 
 ## [Volume delle botti]{.l lang=it}[Barrel volume]{.l lang=en}[Fassvolumen]{.l lang=de}[Volumen de los barriles]{.l lang=es}[Volume des fûts]{.l lang=fr}[Volume dos barris]{.l lang=pt}
 
+```{=html}
+<div id="volume-botti" class="tab-anchor"></div>
+```
+
 ::: {.l lang=it}
 Il volume nominale scritto su una botte raramente coincide con quello reale. Per stimarlo abbiamo misurato il diametro delle teste (d), il diametro della pancia (D), la lunghezza (L) e lo spessore delle doghe, e applicato la formula del cilindro equivalente riportata nel [Notiziario della Consorteria dell'Aceto Balsamico Tradizionale](https://www.consorteria-abtm.it/notiziario/) (aprile 1998, formula n. 3): la capacità è quella di un cilindro con base pari alla media delle superfici dei due cerchi.
 :::
@@ -200,6 +212,10 @@ O volume nominal escrito em um barril raramente coincide com o real. Para estim�
 
 ## [Temperatura e umidità]{.l lang=it}[Temperature and humidity]{.l lang=en}[Temperatur und Luftfeuchte]{.l lang=de}[Temperatura y humedad]{.l lang=es}[Température et humidité]{.l lang=fr}[Temperatura e umidade]{.l lang=pt}
 
+```{=html}
+<div id="temperatura-umidita" class="tab-anchor"></div>
+```
+
 ::: {.l lang=it}
 Dal 20 ottobre 2024 un datalogger registra ogni due ore temperatura e umidità relativa in acetaia. Il balsamico ha bisogno proprio di questa escursione: inverni freddi che fermano la fermentazione e fanno decantare, estati calde che concentrano ed evaporano. Il grafico mostra le medie giornaliere (fascia: minima e massima del giorno).
 :::
@@ -225,12 +241,15 @@ Desde 20 de outubro de 2024 um datalogger registra a cada duas horas a temperatu
   <div><p class="eyebrow"><span class="l" lang="it">Dove stanno le botti</span><span class="l" lang="en">Where the barrels are</span><span class="l" lang="de">Wo die Fässer stehen</span><span class="l" lang="es">Dónde están los barriles</span><span class="l" lang="fr">Où sont les fûts</span><span class="l" lang="pt">Onde ficam os barris</span></p>
   <p><span class="l" lang="it"><strong>Un antico fienile a sei metri di altezza.</strong> L'acetaia è situata a 6 metri di altezza, in un antico fienile ristrutturato. Non è una soffitta, e questo cambia le cose: d'estate non soffre delle temperature estreme, oltre i 35 °C, che si creano nelle soffitte; d'inverno può ricevere più umidità e temperature più basse rispetto a una soffitta. Sono condizioni uniche per l'invecchiamento del balsamico, che seguiamo con le misure di temperatura e umidità.</span><span class="l" lang="en"><strong>An old hayloft six metres up.</strong> The acetaia sits 6 metres above the ground, in an old restored hayloft. It is not an attic, and that changes things: in summer it does not suffer the extreme temperatures, above 35 °C, that build up in attics; in winter it can receive more humidity and lower temperatures than an attic. These are unique conditions for ageing balsamic vinegar, which we follow with temperature and humidity measurements.</span><span class="l" lang="de"><strong>Eine alte Scheune in sechs Metern Höhe.</strong> Die Acetaia liegt 6 Meter über dem Boden, in einer alten, restaurierten Scheune. Es ist kein Dachboden, und das macht den Unterschied: im Sommer leidet sie nicht unter den extremen Temperaturen über 35 °C, die in Dachböden entstehen; im Winter kann sie mehr Feuchtigkeit und niedrigere Temperaturen aufnehmen als ein Dachboden. Das sind einzigartige Bedingungen für die Reifung des Balsamico, die wir mit Temperatur- und Luftfeuchtemessungen verfolgen.</span><span class="l" lang="es"><strong>Un antiguo pajar a seis metros de altura.</strong> La acetaia está situada a 6 metros de altura, en un antiguo pajar restaurado. No es un desván, y eso cambia las cosas: en verano no sufre las temperaturas extremas, por encima de 35 °C, que se crean en los desvanes; en invierno puede recibir más humedad y temperaturas más bajas que un desván. Son condiciones únicas para el envejecimiento del balsámico, que seguimos con las medidas de temperatura y humedad.</span><span class="l" lang="fr"><strong>Une ancienne grange à six mètres de hauteur.</strong> L'acetaia est située à 6 mètres de hauteur, dans une ancienne grange restaurée. Ce n'est pas un grenier, et cela change tout : en été, elle ne subit pas les températures extrêmes, au-delà de 35 °C, qui se créent dans les greniers ; en hiver, elle peut recevoir plus d'humidité et des températures plus basses qu'un grenier. Ce sont des conditions uniques pour le vieillissement du balsamique, que nous suivons avec les mesures de température et d'humidité.</span><span class="l" lang="pt"><strong>Um antigo celeiro a seis metros de altura.</strong> A acetaia fica a 6 metros de altura, em um antigo celeiro restaurado. Não é um sótão, e isso muda tudo: no verão não sofre as temperaturas extremas, acima de 35 °C, que se formam nos sótãos; no inverno pode receber mais umidade e temperaturas mais baixas do que um sótão. São condições únicas para o envelhecimento do balsâmico, que acompanhamos com as medições de temperatura e umidade.</span></p></div>
 </div>
-<div id="temperatura-umidita"></div>
 <div id="chart-clima" class="chart" style="min-height:420px"></div>
 
 ```
 
 ## [Cronologia]{.l lang=it}[Timeline]{.l lang=en}[Chronik]{.l lang=de}[Cronología]{.l lang=es}[Chronologie]{.l lang=fr}[Cronologia]{.l lang=pt}
+
+```{=html}
+<div id="cronologia" class="tab-anchor"></div>
+```
 
 ```{=html}
 <ul class="timeline">

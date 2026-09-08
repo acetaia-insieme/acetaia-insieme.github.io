@@ -62,6 +62,17 @@
     }
     setTimeout(function(){ el.scrollIntoView({behavior:'smooth',block:'start'}); }, 350);
   }
+  function syncHash(){
+    document.querySelectorAll('.panel-tabset .nav-link').forEach(function(a){
+      a.addEventListener('shown.bs.tab', function(){
+        var sel=a.getAttribute('data-bs-target'); if(!sel) return;
+        var pane=document.querySelector(sel); if(!pane) return;
+        var anc=pane.querySelector('.tab-anchor'); if(!anc) return;
+        try{ history.replaceState(null,'','#'+anc.id); }catch(e){}
+      });
+    });
+  }
+  window.addEventListener('load', syncHash);
   window.addEventListener('hashchange', openHash);
   window.addEventListener('load', function(){ setTimeout(openHash, 200); });
   if(document.readyState==='loading') document.addEventListener('DOMContentLoaded', build); else build();

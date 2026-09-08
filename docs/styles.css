@@ -167,3 +167,4 @@ figure.plain img { border-radius: 12px; max-width: 100%; }
 }
 
 .values-note { background: var(--ai-card); border-left:4px solid var(--ai-accent); border-radius:0 10px 10px 0; padding:.7rem 1rem; font-size:.95rem; margin:1rem 0; }
+.tab-anchor { position: relative; top: -80px; height: 0; }

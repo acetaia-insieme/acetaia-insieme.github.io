@@ -16,35 +16,39 @@ include-in-header:
 
 ## [Il balsamico]{.l lang=it}[Balsamic vinegar]{.l lang=en}[Der Balsamico]{.l lang=de}[El balsámico]{.l lang=es}[Le balsamique]{.l lang=fr}[O balsâmico]{.l lang=pt}
 
+```{=html}
+<div id="balsamico" class="tab-anchor"></div>
+```
+
 ::: {.l lang=it}
 ### Le fasi della produzione
 
-Dall'uva alla botticella: sei fasi, scandite dalle stagioni. È il percorso del balsamico tradizionale, lo stesso che seguiamo in famiglia. Il 24 aprile 2024 abbiamo innestato le nostre batterie con mosto cotto acetificato di <a href="https://www.enologicamodenese.it">Enologica Modenese</a> (26,5 °Brix, acidità 8 %), saltando quindi le prime fasi che si fanno in vigna e nel paiolo.
+Dall'uva alla botticella: sei fasi, scandite dalle stagioni. È il percorso del balsamico tradizionale.
 :::
 ::: {.l lang=en}
 ### The production phases
 
-From the grape to the small cask: six phases, set by the seasons. It is the path of traditional balsamic vinegar, the same we follow as a family. On 24 April 2024 we started our batteries with acetified cooked must from <a href="https://www.enologicamodenese.it">Enologica Modenese</a> (26.5 °Brix, acidity 8 %), thus skipping the first phases that happen in the vineyard and in the cooking pot.
+From the grape to the small cask: six phases, set by the seasons. It is the path of traditional balsamic vinegar.
 :::
 ::: {.l lang=de}
 ### Die Phasen der Herstellung
 
-Von der Traube zum Fässchen: sechs Phasen, vorgegeben von den Jahreszeiten. Es ist der Weg des traditionellen Balsamessigs, dem auch wir als Familie folgen. Am 24. April 2024 haben wir unsere Batterien mit essigsauer vergorenem gekochtem Most von <a href="https://www.enologicamodenese.it">Enologica Modenese</a> angesetzt (26,5 °Brix, Säure 8 %) und damit die ersten Phasen im Weinberg und im Kochkessel übersprungen.
+Von der Traube zum Fässchen: sechs Phasen, vorgegeben von den Jahreszeiten. Es ist der Weg des traditionellen Balsamessigs.
 :::
 ::: {.l lang=es}
 ### Las fases de la producción
 
-De la uva al barrilito: seis fases, marcadas por las estaciones. Es el recorrido del balsámico tradicional, el mismo que seguimos en familia. El 24 de abril de 2024 injertamos nuestras baterías con mosto cocido acetificado de <a href="https://www.enologicamodenese.it">Enologica Modenese</a> (26,5 °Brix, acidez 8 %), saltándonos así las primeras fases, que se hacen en la viña y en el caldero.
+De la uva al barrilito: seis fases, marcadas por las estaciones. Es el recorrido del balsámico tradicional.
 :::
 ::: {.l lang=fr}
 ### Les phases de la production
 
-Du raisin au petit fût : six phases, rythmées par les saisons. C'est le parcours du balsamique traditionnel, le même que nous suivons en famille. Le 24 avril 2024, nous avons ensemencé nos batteries avec du moût cuit acétifié d'<a href="https://www.enologicamodenese.it">Enologica Modenese</a> (26,5 °Brix, acidité 8 %), en sautant donc les premières phases qui se font à la vigne et dans le chaudron.
+Du raisin au petit fût : six phases, rythmées par les saisons. C'est le parcours du balsamique traditionnel.
 :::
 ::: {.l lang=pt}
 ### As fases da produção
 
-Da uva ao barrilete: seis fases, marcadas pelas estações. É o percurso do balsâmico tradicional, o mesmo que seguimos em família. Em 24 de abril de 2024 inoculamos as nossas baterias com mosto cozido acetificado da <a href="https://www.enologicamodenese.it">Enologica Modenese</a> (26,5 °Brix, acidez 8 %), pulando assim as primeiras fases, que se fazem na vinha e no caldeirão.
+Da uva ao barrilete: seis fases, marcadas pelas estações. É o percurso do balsâmico tradicional.
 :::
 
 {{< include assets/fasi.html >}}
@@ -148,6 +152,10 @@ As nossas medidas de referência são a acidez total (% de ácido acético), que
 
 ## [Modena e Reggio Emilia]{.l lang=it}[Modena and Reggio Emilia]{.l lang=en}[Modena und Reggio Emilia]{.l lang=de}[Módena y Reggio Emilia]{.l lang=es}[Modène et Reggio Emilia]{.l lang=fr}[Módena e Reggio Emilia]{.l lang=pt}
 
+```{=html}
+<div id="modena-reggio" class="tab-anchor"></div>
+```
+
 ::: {.l lang=it}
 L'aceto balsamico tradizionale nasce negli antichi domini estensi: la Corte d'Este, trasferitasi da Ferrara a Modena nel 1598, ne fece un dono per le corti d'Europa. Oggi esistono due denominazioni DOP, sorelle e distinte:
 
@@ -234,6 +242,10 @@ Não confundir com o *Aceto Balsamico di Modena IGP*, um produto industrial de v
 
 ## [Volume delle botti]{.l lang=it}[Barrel volume]{.l lang=en}[Fassvolumen]{.l lang=de}[Volumen de los barriles]{.l lang=es}[Volume des fûts]{.l lang=fr}[Volume dos barris]{.l lang=pt}
 
+```{=html}
+<div id="formule-volume" class="tab-anchor"></div>
+```
+
 ::: {.l lang=it}
 Conoscere la capacità reale di ogni botte è indispensabile quando si fanno travasi e rincalzi. Nel [Notiziario della Consorteria dell'Aceto Balsamico Tradizionale](https://www.consorteria-abtm.it/notiziario/) dell'aprile 1998 Giuseppe Pecchi raccolse otto formule, esatte o approssimate, per calcolarla a partire da tre misure interne: il diametro delle teste **d**, il diametro massimo della pancia **D** e la lunghezza **L** (in decimetri, per avere litri). Le mise poi alla prova su una botte della sua acetaia di capacità nota, 54,90 litri (misurata per pesata d'acqua a 15 °C), con d = 3,7 dm, D = 4,3 dm, L = 4,15 dm.
 :::
@@ -288,6 +300,10 @@ A conclusão de Pecchi: as fórmulas 5 e 6 são as mais exatas (desvio abaixo de
 :::
 
 ## [La titolazione]{.l lang=it}[Titration]{.l lang=en}[Die Titration]{.l lang=de}[La titulación]{.l lang=es}[Le titrage]{.l lang=fr}[A titulação]{.l lang=pt}
+
+```{=html}
+<div id="titolazione" class="tab-anchor"></div>
+```
 
 ::: {.l lang=it}
 ### Come misuriamo l'acidità totale
@@ -382,6 +398,10 @@ A acidez total se expressa em gramas de ácido acético por 100 ml de vinagre (%
 
 ## [I legni]{.l lang=it}[The woods]{.l lang=en}[Die Hölzer]{.l lang=de}[Las maderas]{.l lang=es}[Les bois]{.l lang=fr}[As madeiras]{.l lang=pt}
 
+```{=html}
+<div id="legni" class="tab-anchor"></div>
+```
+
 ::: {.l lang=it}
 Ogni legno dà qualcosa di diverso al balsamico. Basilari sono il **castagno** e il **rovere**.
 
@@ -456,6 +476,10 @@ Nas nossas baterias, do barril menor ao maior: a A tem carvalho (15 e 20 L), cer
 :::
 
 ## [Appunti di acetaia]{.l lang=it}[Acetaia notes]{.l lang=en}[Notizen aus der Acetaia]{.l lang=de}[Apuntes de acetaia]{.l lang=es}[Notes d'acetaia]{.l lang=fr}[Anotações da acetaia]{.l lang=pt}
+
+```{=html}
+<div id="appunti" class="tab-anchor"></div>
+```
 
 ::: {.l lang=it}
 Appunti raccolti da Leonardo da letture scientifiche (tra cui Giudici et al., [*Balsamic Vinegars*](https://link.springer.com/book/10.1007/978-3-319-13758-2), 2015, e le slide Agroscope), dai video di al vasèl e da una lunga chiacchierata, nel dicembre 2025, con un produttore familiare esperto. Sono note di lavoro, non regole: le condividiamo perché a noi sono servite.
@@ -634,6 +658,10 @@ Anotações reunidas por Leonardo a partir de leituras científicas (entre elas 
 
 ## [La luna]{.l lang=it}[The moon]{.l lang=en}[Der Mond]{.l lang=de}[La luna]{.l lang=es}[La lune]{.l lang=fr}[A lua]{.l lang=pt}
 
+```{=html}
+<div id="luna" class="tab-anchor"></div>
+```
+
 ::: {.l lang=it}
 Nello stesso [Notiziario](https://www.consorteria-abtm.it/notiziario/) del 1998 Luigi Loli Palazzini ricorda che non esiste una prova scientifica dell'influsso della luna sull'acetaia, ma che i contadini hanno sempre seguito il suo calendario. Anche la luna ha le sue quattro stagioni: primavera (crescente fino al primo quarto), estate (crescente fino al plenilunio), autunno (calante fino all'ultimo quarto), inverno (calante fino alla luna nuova). Il calendario tradizionale dell'acetaia:
 
@@ -757,6 +785,10 @@ Nós olhamos mais para o termômetro do que para a lua, mas o ritmo das estaçõ
 
 ## [Vendere il balsamico familiare]{.l lang=it}[Selling family balsamic]{.l lang=en}[Familien-Balsamico verkaufen]{.l lang=de}[Vender el balsámico familiar]{.l lang=es}[Vendre le balsamique familial]{.l lang=fr}[Vender o balsâmico familiar]{.l lang=pt}
 
+```{=html}
+<div id="vendere" class="tab-anchor"></div>
+```
+
 ::: {.l lang=it}
 Una domanda che tutte le famiglie con un'acetaia prima o poi si fanno: posso venderlo? In sintesi, esistono due strade molto diverse.
 
@@ -813,6 +845,10 @@ Quem quiser se aprofundar nas regras para vender encontra experiências e respos
 :::
 
 ## [Risorse]{.l lang=it}[Resources]{.l lang=en}[Ressourcen]{.l lang=de}[Recursos]{.l lang=es}[Ressources]{.l lang=fr}[Recursos]{.l lang=pt}
+
+```{=html}
+<div id="risorse" class="tab-anchor"></div>
+```
 
 ::: {.l lang=it}
 - [al vasèl, community del Balsamico familiare](https://www.alvasel.com): profili delle acetaie familiari, forum, videocorso gratuito, shop con soli aceti della community.
