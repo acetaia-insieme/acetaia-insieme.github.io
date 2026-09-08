@@ -54,6 +54,13 @@ A Acetaia Insieme é composta por três baterias, A, B e C, adquiridas em 2024 e
 :::
 :::
 
+```{=html}
+<figure class="batterie-foto">
+  <img src="foto/batterie_1.jpg" alt="Le tre batterie dell'Acetaia Insieme nel fienile">
+  <figcaption><span class="l" lang="it">Le tre batterie nel fienile: sedici botti in tutto, dalla più piccola da 15 litri alla più grande da 60.</span><span class="l" lang="en">The three batteries in the hayloft: sixteen barrels in all, from the smallest at 15 litres to the largest at 60.</span><span class="l" lang="de">Die drei Batterien in der Scheune: insgesamt sechzehn Fässer, vom kleinsten mit 15 Litern bis zum größten mit 60.</span><span class="l" lang="es">Las tres baterías en el pajar: dieciséis barriles en total, desde el más pequeño de 15 litros hasta el más grande de 60.</span><span class="l" lang="fr">Les trois batteries dans la grange : seize fûts en tout, du plus petit de 15 litres au plus grand de 60.</span><span class="l" lang="pt">As três baterias no celeiro: dezesseis barris ao todo, do menor de 15 litros ao maior de 60.</span></figcaption>
+</figure>
+```
+
 ::: {.panel-tabset}
 
 ## [Batterie]{.l lang=it}[Batteries]{.l lang=en}[Batterien]{.l lang=de}[Baterías]{.l lang=es}[Batteries]{.l lang=fr}[Baterias]{.l lang=pt}

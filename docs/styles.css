@@ -133,3 +133,7 @@ figure.plain img { border-radius: 12px; max-width: 100%; }
 .callout-ai.fienile { display:grid; grid-template-columns:72px 1fr; gap:1rem; align-items:start; border-width:2px; }
 .fienile-icon { padding-top:.4rem; }
 @media (max-width:600px){ .callout-ai.fienile { grid-template-columns:1fr; } }
+
+.batterie-foto { margin: 1.5rem 0 2rem; }
+.batterie-foto img { width:100%; height:auto; border-radius:16px; display:block; box-shadow: 0 8px 24px rgba(0,0,0,.10); }
+.batterie-foto figcaption { color: var(--ai-muted); font-size:.9rem; margin-top:.5rem; }
