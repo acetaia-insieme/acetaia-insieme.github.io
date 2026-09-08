@@ -24,39 +24,33 @@ pagetitle: "Acetaia Insieme"
 <p class="eyebrow">La famiglia</p>
 ## Siamo una famiglia allargata
 
-L'Acetaia Insieme nasce nel 2024 dall'iniziativa di Nara Zanoli, Leonardo Capitani e Talita da Silva Gomes. Oggi la portiamo avanti in cinque: io, Leonardo; mia moglie Erika Talita; nostro figlio Eduardo; mia madre Nara Zanoli, ora nonna di Eduardo; e l'amico Raffaele Freddi, che accompagna ogni passo della produzione. Abbiamo acquistato nel 2024 tre batterie e da allora le seguiamo con attenzione e affetto. Non siamo un'azienda: siamo persone che si ritrovano per affetto comune e per la voglia di imparare cose nuove sull'aceto balsamico.
 :::
 
 ::: {.l lang=en}
 <p class="eyebrow">The family</p>
 ## We are an extended family
 
-Acetaia Insieme was founded in 2024 on the initiative of Nara Zanoli, Leonardo Capitani and Talita da Silva Gomes. Today there are five of us: me, Leonardo; my wife Erika Talita; our son Eduardo; my mother Nara Zanoli, now Eduardo's grandmother; and our friend Raffaele Freddi, who accompanies every step of the production. In 2024 we bought three batteries and since then we have followed them with care and affection. We are not a company: we are people brought together by shared affection and by the wish to learn new things about balsamic vinegar.
 :::
 
 ::: {.l lang=de}
 <p class="eyebrow">Die Familie</p>
 ## Wir sind eine erweiterte Familie
 
-Die Acetaia Insieme entstand 2024 auf Initiative von Nara Zanoli, Leonardo Capitani und Talita da Silva Gomes. Heute sind wir zu fünft: ich, Leonardo; meine Frau Erika Talita; unser Sohn Eduardo; meine Mutter Nara Zanoli, jetzt Eduardos Nonna; und unser Freund Raffaele Freddi, der jeden Schritt der Produktion begleitet. 2024 haben wir drei Batterien gekauft und seitdem begleiten wir sie mit Aufmerksamkeit und Zuneigung. Wir sind kein Unternehmen: wir sind Menschen, die gemeinsame Zuneigung und die Lust verbindet, Neues über Balsamessig zu lernen.
 :::
 ::: {.l lang=es}
 <p class="eyebrow">La familia</p>
 ## Somos una familia extensa
 
-La Acetaia Insieme nace en 2024 por iniciativa de Nara Zanoli, Leonardo Capitani y Talita da Silva Gomes. Hoy la llevamos adelante entre cinco: yo, Leonardo; mi esposa Erika Talita; nuestro hijo Eduardo; mi madre Nara Zanoli, ahora abuela de Eduardo; y el amigo Raffaele Freddi, que acompaña cada paso de la producción. En 2024 compramos tres baterías y desde entonces las seguimos con atención y cariño. No somos una empresa: somos personas que se reúnen por afecto común y por las ganas de aprender cosas nuevas sobre el vinagre balsámico.
 :::
 ::: {.l lang=fr}
 <p class="eyebrow">La famille</p>
 ## Nous sommes une famille élargie
 
-L'Acetaia Insieme est née en 2024 à l'initiative de Nara Zanoli, Leonardo Capitani et Talita da Silva Gomes. Aujourd'hui, nous la faisons vivre à cinq : moi, Leonardo ; ma femme Erika Talita ; notre fils Eduardo ; ma mère Nara Zanoli, désormais grand-mère d'Eduardo ; et notre ami Raffaele Freddi, qui accompagne chaque étape de la production. Nous avons acheté trois batteries en 2024 et, depuis, nous les suivons avec attention et affection. Nous ne sommes pas une entreprise : nous sommes des personnes qui se retrouvent par affection mutuelle et par envie d'apprendre de nouvelles choses sur le vinaigre balsamique.
 :::
 ::: {.l lang=pt}
 <p class="eyebrow">A família</p>
 ## Somos uma família ampliada
 
-A Acetaia Insieme nasce em 2024 por iniciativa de Nara Zanoli, Leonardo Capitani e Talita da Silva Gomes. Hoje nós a levamos adiante em cinco: eu, Leonardo; minha esposa Erika Talita; nosso filho Eduardo; minha mãe Nara Zanoli, agora avó de Eduardo; e o amigo Raffaele Freddi, que acompanha cada passo da produção. Compramos três baterias em 2024 e desde então cuidamos delas com atenção e carinho. Não somos uma empresa: somos pessoas que se reúnem por afeto comum e pela vontade de aprender coisas novas sobre o vinagre balsâmico.
 :::
 
 ```{=html}
@@ -122,44 +116,44 @@ A Acetaia Insieme nasce em 2024 por iniciativa de Nara Zanoli, Leonardo Capitani
 <p class="eyebrow">Il territorio</p>
 ## Il fiume Secchia e le terre a nord di Modena
 
-L'acetaia si trova in Via Sott'Argine 26 a Ponte Motta, frazione di Cavezzo, in provincia di Modena, nella pianura a nord di Modena, lungo il fiume Secchia, simbolo di queste terre. Un tempo qui c'erano paludi e acquitrini; poi le bonifiche hanno disegnato i campi, i filari e gli argini che vediamo oggi, e questa pianura è diventata uno dei centri della produzione del balsamico. Le nostre foto raccontano le stagioni del posto: il Secchia in piena a marzo, i frutteti in fiore, le api sul tarassaco.
+L'acetaia si trova in Via Sott'Argine 26 a Ponte Motta, frazione di Cavezzo, in provincia di Modena, nella pianura a nord di Modena, lungo il fiume Secchia, simbolo di queste terre. Un tempo qui c'erano paludi e acquitrini; poi le bonifiche hanno disegnato i campi, i filari e gli argini che vediamo oggi, e questa pianura è diventata uno dei centri della produzione del balsamico. Le nostre foto raccontano le stagioni del posto: il fiume Secchia in piena a marzo, i frutteti in fiore, le api sul tarassaco.
 :::
 
 ::: {.l lang=en}
 <p class="eyebrow">The land</p>
 ## The Secchia river and the plain north of Modena
 
-The acetaia is at Via Sott'Argine 26 in Ponte Motta, a hamlet of Cavezzo, in the province of Modena, in the plain north of Modena, along the Secchia river, a symbol of this land. This used to be marsh and wetland; land reclamation then drew the fields, vine rows and embankments we see today, and the plain became one of the centres of balsamic vinegar production. Our photos follow the seasons here: the Secchia in flood in March, the orchards in bloom, the bees on dandelions.
+The acetaia is at Via Sott'Argine 26 in Ponte Motta, a hamlet of Cavezzo, in the province of Modena, in the plain north of Modena, along the Secchia river, a symbol of this land. This used to be marsh and wetland; land reclamation then drew the fields, vine rows and embankments we see today, and the plain became one of the centres of balsamic vinegar production. Our photos follow the seasons here: the river Secchia in flood in March, the orchards in bloom, the bees on dandelions.
 :::
 
 ::: {.l lang=de}
 <p class="eyebrow">Die Gegend</p>
 ## Der Fluss Secchia und die Ebene nördlich von Modena
 
-Die Acetaia liegt in der Via Sott'Argine 26 in Ponte Motta, einem Ortsteil von Cavezzo, in der Provinz Modena, in der Ebene nördlich von Modena, am Fluss Secchia, einem Symbol dieser Gegend. Früher waren hier Sümpfe und Feuchtgebiete; die Trockenlegung hat die Felder, Rebzeilen und Deiche gezeichnet, die wir heute sehen, und die Ebene wurde zu einem der Zentren der Balsamico-Produktion. Unsere Fotos zeigen die Jahreszeiten hier: den Hochwasser führenden Secchia im März, die blühenden Obstgärten, die Bienen auf dem Löwenzahn.
+Die Acetaia liegt in der Via Sott'Argine 26 in Ponte Motta, einem Ortsteil von Cavezzo, in der Provinz Modena, in der Ebene nördlich von Modena, am Fluss Secchia, einem Symbol dieser Gegend. Früher waren hier Sümpfe und Feuchtgebiete; die Trockenlegung hat die Felder, Rebzeilen und Deiche gezeichnet, die wir heute sehen, und die Ebene wurde zu einem der Zentren der Balsamico-Produktion. Unsere Fotos zeigen die Jahreszeiten hier: den Fluss Secchia bei Hochwasser im März, die blühenden Obstgärten, die Bienen auf dem Löwenzahn.
 :::
 ::: {.l lang=es}
 <p class="eyebrow">El territorio</p>
 ## El río Secchia y las tierras al norte de Módena
 
-La acetaia está en Via Sott'Argine 26, en Ponte Motta, pedanía de Cavezzo, provincia de Módena, en la llanura al norte de Módena, junto al río Secchia, símbolo de estas tierras. Antaño aquí había pantanos y marismas; después las obras de saneamiento dibujaron los campos, las hileras de viñas y los diques que vemos hoy, y esta llanura se convirtió en uno de los centros de producción del balsámico. Nuestras fotos cuentan las estaciones del lugar: el Secchia en crecida en marzo, los frutales en flor, las abejas sobre el diente de león.
+La acetaia está en Via Sott'Argine 26, en Ponte Motta, pedanía de Cavezzo, provincia de Módena, en la llanura al norte de Módena, junto al río Secchia, símbolo de estas tierras. Antaño aquí había pantanos y marismas; después las obras de saneamiento dibujaron los campos, las hileras de viñas y los diques que vemos hoy, y esta llanura se convirtió en uno de los centros de producción del balsámico. Nuestras fotos cuentan las estaciones del lugar: el río Secchia en crecida en marzo, los frutales en flor, las abejas sobre el diente de león.
 :::
 ::: {.l lang=fr}
 <p class="eyebrow">Le territoire</p>
 ## Le fleuve Secchia et les terres au nord de Modène
 
-L'acetaia se trouve Via Sott'Argine 26 à Ponte Motta, hameau de Cavezzo, dans la province de Modène, dans la plaine au nord de Modène, le long du fleuve Secchia, symbole de ces terres. Autrefois, il y avait ici des marais et des marécages ; puis les travaux d'assèchement ont dessiné les champs, les rangs de vigne et les digues que nous voyons aujourd'hui, et cette plaine est devenue l'un des centres de la production du balsamique. Nos photos racontent les saisons du lieu : le Secchia en crue en mars, les vergers en fleurs, les abeilles sur les pissenlits.
+L'acetaia se trouve Via Sott'Argine 26 à Ponte Motta, hameau de Cavezzo, dans la province de Modène, dans la plaine au nord de Modène, le long du fleuve Secchia, symbole de ces terres. Autrefois, il y avait ici des marais et des marécages ; puis les travaux d'assèchement ont dessiné les champs, les rangs de vigne et les digues que nous voyons aujourd'hui, et cette plaine est devenue l'un des centres de la production du balsamique. Nos photos racontent les saisons du lieu : le fleuve Secchia en crue en mars, les vergers en fleurs, les abeilles sur les pissenlits.
 :::
 ::: {.l lang=pt}
 <p class="eyebrow">O território</p>
 ## O rio Secchia e as terras ao norte de Módena
 
-A acetaia fica na Via Sott'Argine 26, em Ponte Motta, distrito de Cavezzo, província de Módena, na planície ao norte de Módena, ao longo do rio Secchia, símbolo destas terras. Antigamente aqui havia pântanos e brejos; depois as obras de drenagem desenharam os campos, as fileiras de videiras e os diques que vemos hoje, e esta planície se tornou um dos centros da produção do balsâmico. As nossas fotos contam as estações do lugar: o Secchia em cheia em março, os pomares em flor, as abelhas no dente-de-leão.
+A acetaia fica na Via Sott'Argine 26, em Ponte Motta, distrito de Cavezzo, província de Módena, na planície ao norte de Módena, ao longo do rio Secchia, símbolo destas terras. Antigamente aqui havia pântanos e brejos; depois as obras de drenagem desenharam os campos, as fileiras de videiras e os diques que vemos hoje, e esta planície se tornou um dos centros da produção do balsâmico. As nossas fotos contam as estações do lugar: o rio Secchia em cheia em março, os pomares em flor, as abelhas no dente-de-leão.
 :::
 
 ```{=html}
 <div class="gallery">
-  <figure class="wide"><img src="foto/fiume_secchia.jpg" alt="Fiume Secchia"><figcaption><span class="l" lang="it">Il Secchia in piena, marzo 2025</span><span class="l" lang="en">The Secchia in flood, March 2025</span><span class="l" lang="de">Der Secchia bei Hochwasser, März 2025</span><span class="l" lang="es">El Secchia en crecida, marzo de 2025</span><span class="l" lang="fr">Le Secchia en crue, mars 2025</span><span class="l" lang="pt">O Secchia em cheia, março de 2025</span></figcaption></figure>
+  <figure class="wide"><img src="foto/fiume_secchia.jpg" alt="Fiume Secchia"><figcaption><span class="l" lang="it">Il fiume Secchia in piena, marzo 2025</span><span class="l" lang="en">The river Secchia in flood, March 2025</span><span class="l" lang="de">Der Fluss Secchia bei Hochwasser, März 2025</span><span class="l" lang="es">El río Secchia en crecida, marzo de 2025</span><span class="l" lang="fr">Le fleuve Secchia en crue, mars 2025</span><span class="l" lang="pt">O rio Secchia em cheia, março de 2025</span></figcaption></figure>
   <figure><img src="foto/acetaia_struttura.jpg" alt="L'acetaia vista dall'esterno"><figcaption><span class="l" lang="it">L'acetaia vista dall'esterno</span><span class="l" lang="en">The acetaia from outside</span><span class="l" lang="de">Die Acetaia von außen</span><span class="l" lang="es">La acetaia vista desde fuera</span><span class="l" lang="fr">L'acetaia vue de l'extérieur</span><span class="l" lang="pt">A acetaia vista de fora</span></figcaption></figure>
   <figure><img src="foto/batterie_1.jpg" alt="Le batterie"><figcaption><span class="l" lang="it">Le batterie nel fienile</span><span class="l" lang="en">The batteries in the hayloft</span><span class="l" lang="de">Die Batterien in der Scheune</span><span class="l" lang="es">Las baterías en el pajar</span><span class="l" lang="fr">Les batteries dans la grange</span><span class="l" lang="pt">As baterias no celeiro</span></figcaption></figure>
   <figure class="tall"><img src="foto/fiore4.jpg" alt="Fiore di pesco"><figcaption><span class="l" lang="it">Fiore di pesco</span><span class="l" lang="en">Peach blossom</span><span class="l" lang="de">Pfirsichblüte</span><span class="l" lang="es">Flor de melocotonero</span><span class="l" lang="fr">Fleur de pêcher</span><span class="l" lang="pt">Flor de pessegueiro</span></figcaption></figure>
