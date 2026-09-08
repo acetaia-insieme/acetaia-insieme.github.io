@@ -643,6 +643,16 @@ Nello stesso [Notiziario](https://www.consorteria-abtm.it/notiziario/) del 1998 
 - **Inverno**: la raccolta del prodotto pronto per il consumo.
 
 Noi guardiamo il termometro più della luna, ma il ritmo delle stagioni è lo stesso.
+
+::: {.callout-ai .gold}
+**Cosa dice la scienza.** Non esiste alcuna prova scientifica che la luna o il ciclo lunare influenzino gli *Acetobacter* o il processo di ossidazione acetica, cioè la conversione dell'etanolo in acido acetico. Quello che invece è documentato è che gli acetobatteri rispondono a tre fattori concreti:
+
+- **Disponibilità di ossigeno.** Gli *Acetobacter* sono aerobi obbligati: la conversione dell'etanolo in acetaldeide e poi in acido acetico richiede un apporto continuo e abbondante di ossigeno disciolto. [[1]](https://www.mdpi.com/2304-8158/13/16/2534) [[2]](https://acikders.ankara.edu.tr/mod/resource/view.php?id=165299) [[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC1151782/)
+- **Concentrazione di etanolo e acido acetico.** La presenza di etanolo reprime l'ossidazione completa dell'acido acetico. Quando l'etanolo si esaurisce, gli *Acetobacter* passano alla "sovraossidazione" dell'acetato (perossidazione) e demoliscono l'acido acetico che ci interessa in CO₂ e H₂O. [[1]](https://www.sciencedirect.com/science/article/abs/pii/092304679306046S) [[2]](https://acikders.ankara.edu.tr/mod/resource/view.php?id=165299)
+- **Temperatura e pH.** I batteri acetici sono molto sensibili alle variazioni di temperatura, stagionali o ambientali (di solito prosperano tra 25 e 30 °C), e hanno bisogno di un intervallo di pH acido, in genere fra 4 e 5, perché i loro enzimi lavorino al meglio.
+
+Per questo, in acetaia, misuriamo temperatura, umidità, acidità e densità: sono i fattori su cui possiamo davvero agire.
+:::
 :::
 ::: {.l lang=en}
 In the same 1998 [Newsletter](https://www.consorteria-abtm.it/notiziario/), Luigi Loli Palazzini recalls that there is no scientific proof of the moon's influence on the acetaia, but that farmers have always followed its calendar. The moon too has four seasons: spring (waxing to first quarter), summer (waxing to full moon), autumn (waning to last quarter), winter (waning to new moon). The traditional acetaia calendar:
@@ -653,6 +663,16 @@ In the same 1998 [Newsletter](https://www.consorteria-abtm.it/notiziario/), Luig
 - **Winter**: drawing the vinegar that is ready to be enjoyed.
 
 We watch the thermometer more than the moon, but the rhythm of the seasons is the same.
+
+::: {.callout-ai .gold}
+**What science says.** There is no scientific evidence indicating that the moon or the lunar cycle influences *Acetobacter* or its process of acetic oxidation, the conversion of ethanol into acetic acid. What is documented instead is that acetic acid bacteria respond to three concrete factors:
+
+- **Oxygen availability.** *Acetobacter* species are obligate aerobes: the conversion of ethanol to acetaldehyde, and subsequently to acetic acid, requires a continuous, high supply of dissolved oxygen. [[1]](https://www.mdpi.com/2304-8158/13/16/2534) [[2]](https://acikders.ankara.edu.tr/mod/resource/view.php?id=165299) [[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC1151782/)
+- **Ethanol and acetic acid concentrations.** The presence of ethanol acts as a repressor for the complete oxidation of acetic acid. When ethanol is depleted, *Acetobacter* will undergo "acetate overoxidation" (peroxidation), breaking down the desired acetic acid into CO₂ and H₂O. [[1]](https://www.sciencedirect.com/science/article/abs/pii/092304679306046S) [[2]](https://acikders.ankara.edu.tr/mod/resource/view.php?id=165299)
+- **Temperature and pH.** Acetic acid bacteria are highly sensitive to seasonal or ambient temperature changes (typically thriving around 25–30 °C) and rely on specific acidic pH ranges, usually between 4 and 5, to optimise their metabolic enzymes.
+
+That is why, in the acetaia, we measure temperature, humidity, acidity and density: these are the factors we can actually act upon.
+:::
 :::
 ::: {.l lang=de}
 Im selben [Notiziario](https://www.consorteria-abtm.it/notiziario/) von 1998 erinnert Luigi Loli Palazzini daran, dass es keinen wissenschaftlichen Beweis für den Einfluss des Mondes auf die Acetaia gibt, die Bauern aber seit jeher seinem Kalender folgen. Auch der Mond hat vier Jahreszeiten: Frühling (zunehmend bis zum ersten Viertel), Sommer (zunehmend bis Vollmond), Herbst (abnehmend bis zum letzten Viertel), Winter (abnehmend bis Neumond). Der traditionelle Acetaia-Kalender:
@@ -663,6 +683,16 @@ Im selben [Notiziario](https://www.consorteria-abtm.it/notiziario/) von 1998 eri
 - **Winter**: die Entnahme des fertigen Essigs.
 
 Wir schauen mehr aufs Thermometer als auf den Mond, aber der Rhythmus der Jahreszeiten ist derselbe.
+
+::: {.callout-ai .gold}
+**Was die Wissenschaft sagt.** Es gibt keinen wissenschaftlichen Beleg dafür, dass der Mond oder der Mondzyklus *Acetobacter* oder die Essigoxidation, also die Umwandlung von Ethanol in Essigsäure, beeinflusst. Belegt ist dagegen, dass Essigsäurebakterien auf drei konkrete Faktoren reagieren:
+
+- **Sauerstoffverfügbarkeit.** *Acetobacter* sind obligate Aerobier: die Umwandlung von Ethanol in Acetaldehyd und dann in Essigsäure erfordert eine kontinuierliche, hohe Zufuhr von gelöstem Sauerstoff. [[1]](https://www.mdpi.com/2304-8158/13/16/2534) [[2]](https://acikders.ankara.edu.tr/mod/resource/view.php?id=165299) [[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC1151782/)
+- **Ethanol- und Essigsäurekonzentration.** Die Anwesenheit von Ethanol unterdrückt die vollständige Oxidation der Essigsäure. Ist das Ethanol aufgebraucht, gehen die *Acetobacter* zur „Acetat-Überoxidation" (Peroxidation) über und bauen die erwünschte Essigsäure zu CO₂ und H₂O ab. [[1]](https://www.sciencedirect.com/science/article/abs/pii/092304679306046S) [[2]](https://acikders.ankara.edu.tr/mod/resource/view.php?id=165299)
+- **Temperatur und pH-Wert.** Essigsäurebakterien reagieren sehr empfindlich auf jahreszeitliche oder umgebungsbedingte Temperaturschwankungen (sie gedeihen meist zwischen 25 und 30 °C) und brauchen einen sauren pH-Bereich, in der Regel zwischen 4 und 5, damit ihre Stoffwechselenzyme optimal arbeiten.
+
+Deshalb messen wir in der Acetaia Temperatur, Luftfeuchte, Säure und Dichte: das sind die Faktoren, auf die wir wirklich einwirken können.
+:::
 :::
 ::: {.l lang=es}
 En el mismo [Notiziario](https://www.consorteria-abtm.it/notiziario/) de 1998 Luigi Loli Palazzini recuerda que no existe una prueba científica de la influencia de la luna en la acetaia, pero que los campesinos siempre han seguido su calendario. También la luna tiene sus cuatro estaciones: primavera (creciente hasta el cuarto creciente), verano (creciente hasta el plenilunio), otoño (menguante hasta el cuarto menguante), invierno (menguante hasta la luna nueva). El calendario tradicional de la acetaia:
@@ -673,6 +703,16 @@ En el mismo [Notiziario](https://www.consorteria-abtm.it/notiziario/) de 1998 Lu
 - **Invierno**: la recogida del producto listo para el consumo.
 
 Nosotros miramos el termómetro más que la luna, pero el ritmo de las estaciones es el mismo.
+
+::: {.callout-ai .gold}
+**Lo que dice la ciencia.** No existe ninguna prueba científica de que la luna o el ciclo lunar influyan en las *Acetobacter* ni en el proceso de oxidación acética, es decir, la conversión del etanol en ácido acético. Lo que sí está documentado es que las bacterias acéticas responden a tres factores concretos:
+
+- **Disponibilidad de oxígeno.** Las *Acetobacter* son aerobias obligadas: la conversión del etanol en acetaldehído y después en ácido acético requiere un aporte continuo y abundante de oxígeno disuelto. [[1]](https://www.mdpi.com/2304-8158/13/16/2534) [[2]](https://acikders.ankara.edu.tr/mod/resource/view.php?id=165299) [[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC1151782/)
+- **Concentración de etanol y ácido acético.** La presencia de etanol reprime la oxidación completa del ácido acético. Cuando el etanol se agota, las *Acetobacter* pasan a la "sobreoxidación" del acetato (peroxidación) y degradan el ácido acético que nos interesa en CO₂ y H₂O. [[1]](https://www.sciencedirect.com/science/article/abs/pii/092304679306046S) [[2]](https://acikders.ankara.edu.tr/mod/resource/view.php?id=165299)
+- **Temperatura y pH.** Las bacterias acéticas son muy sensibles a los cambios de temperatura, estacionales o ambientales (suelen prosperar entre 25 y 30 °C), y necesitan un intervalo de pH ácido, normalmente entre 4 y 5, para que sus enzimas metabólicas funcionen de forma óptima.
+
+Por eso, en la acetaia, medimos temperatura, humedad, acidez y densidad: son los factores sobre los que realmente podemos actuar.
+:::
 :::
 ::: {.l lang=fr}
 Dans le même [Notiziario](https://www.consorteria-abtm.it/notiziario/) de 1998, Luigi Loli Palazzini rappelle qu'il n'existe aucune preuve scientifique de l'influence de la lune sur l'acetaia, mais que les paysans ont toujours suivi son calendrier. La lune aussi a ses quatre saisons : printemps (croissante jusqu'au premier quartier), été (croissante jusqu'à la pleine lune), automne (décroissante jusqu'au dernier quartier), hiver (décroissante jusqu'à la nouvelle lune). Le calendrier traditionnel de l'acetaia :
@@ -683,6 +723,16 @@ Dans le même [Notiziario](https://www.consorteria-abtm.it/notiziario/) de 1998,
 - **Hiver** : la récolte du produit prêt à consommer.
 
 Nous regardons le thermomètre plus que la lune, mais le rythme des saisons est le même.
+
+::: {.callout-ai .gold}
+**Ce que dit la science.** Il n'existe aucune preuve scientifique indiquant que la lune ou le cycle lunaire influence les *Acetobacter* ou le processus d'oxydation acétique, c'est-à-dire la conversion de l'éthanol en acide acétique. Ce qui est documenté, en revanche, c'est que les bactéries acétiques répondent à trois facteurs concrets :
+
+- **Disponibilité en oxygène.** Les *Acetobacter* sont des aérobies stricts : la conversion de l'éthanol en acétaldéhyde, puis en acide acétique, exige un apport continu et abondant d'oxygène dissous. [[1]](https://www.mdpi.com/2304-8158/13/16/2534) [[2]](https://acikders.ankara.edu.tr/mod/resource/view.php?id=165299) [[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC1151782/)
+- **Concentrations d'éthanol et d'acide acétique.** La présence d'éthanol réprime l'oxydation complète de l'acide acétique. Lorsque l'éthanol est épuisé, les *Acetobacter* passent à la « suroxydation » de l'acétate (peroxydation) et dégradent l'acide acétique recherché en CO₂ et H₂O. [[1]](https://www.sciencedirect.com/science/article/abs/pii/092304679306046S) [[2]](https://acikders.ankara.edu.tr/mod/resource/view.php?id=165299)
+- **Température et pH.** Les bactéries acétiques sont très sensibles aux variations de température, saisonnières ou ambiantes (elles prospèrent en général entre 25 et 30 °C), et ont besoin d'une plage de pH acide, habituellement entre 4 et 5, pour que leurs enzymes métaboliques travaillent au mieux.
+
+C'est pourquoi, dans l'acetaia, nous mesurons température, humidité, acidité et densité : ce sont les facteurs sur lesquels nous pouvons réellement agir.
+:::
 :::
 ::: {.l lang=pt}
 No mesmo [Notiziario](https://www.consorteria-abtm.it/notiziario/) de 1998, Luigi Loli Palazzini lembra que não existe prova científica da influência da lua sobre a acetaia, mas que os camponeses sempre seguiram o seu calendário. A lua também tem as suas quatro estações: primavera (crescente até o quarto crescente), verão (crescente até a lua cheia), outono (minguante até o quarto minguante), inverno (minguante até a lua nova). O calendário tradicional da acetaia:
@@ -693,6 +743,16 @@ No mesmo [Notiziario](https://www.consorteria-abtm.it/notiziario/) de 1998, Luig
 - **Inverno**: a colheita do produto pronto para o consumo.
 
 Nós olhamos mais para o termômetro do que para a lua, mas o ritmo das estações é o mesmo.
+
+::: {.callout-ai .gold}
+**O que diz a ciência.** Não existe nenhuma evidência científica de que a lua ou o ciclo lunar influencie as *Acetobacter* nem o processo de oxidação acética, isto é, a conversão do etanol em ácido acético. O que está documentado, sim, é que as bactérias acéticas respondem a três fatores concretos:
+
+- **Disponibilidade de oxigênio.** As *Acetobacter* são aeróbias obrigatórias: a conversão do etanol em acetaldeído e depois em ácido acético exige um fornecimento contínuo e abundante de oxigênio dissolvido. [[1]](https://www.mdpi.com/2304-8158/13/16/2534) [[2]](https://acikders.ankara.edu.tr/mod/resource/view.php?id=165299) [[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC1151782/)
+- **Concentração de etanol e ácido acético.** A presença de etanol reprime a oxidação completa do ácido acético. Quando o etanol se esgota, as *Acetobacter* passam à "sobreoxidação" do acetato (peroxidação) e degradam o ácido acético que nos interessa em CO₂ e H₂O. [[1]](https://www.sciencedirect.com/science/article/abs/pii/092304679306046S) [[2]](https://acikders.ankara.edu.tr/mod/resource/view.php?id=165299)
+- **Temperatura e pH.** As bactérias acéticas são muito sensíveis às variações de temperatura, sazonais ou ambientais (costumam prosperar entre 25 e 30 °C), e precisam de uma faixa de pH ácido, em geral entre 4 e 5, para que as suas enzimas metabólicas funcionem bem.
+
+É por isso que, na acetaia, medimos temperatura, umidade, acidez e densidade: são os fatores sobre os quais podemos realmente agir.
+:::
 :::
 
 ## [Vendere il balsamico familiare]{.l lang=it}[Selling family balsamic]{.l lang=en}[Familien-Balsamico verkaufen]{.l lang=de}[Vender el balsámico familiar]{.l lang=es}[Vendre le balsamique familial]{.l lang=fr}[Vender o balsâmico familiar]{.l lang=pt}
