@@ -165,3 +165,5 @@ figure.plain img { border-radius: 12px; max-width: 100%; }
   .panel-tabset > .nav-tabs .nav-link { border-left: none; border-bottom: 3px solid transparent; border-radius: 8px; }
   .panel-tabset > .nav-tabs .nav-link.active { border-left-color: transparent; border-bottom-color: var(--ai-accent); }
 }
+
+.values-note { background: var(--ai-card); border-left:4px solid var(--ai-accent); border-radius:0 10px 10px 0; padding:.7rem 1rem; font-size:.95rem; margin:1rem 0; }
