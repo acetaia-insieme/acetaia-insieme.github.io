@@ -22,35 +22,23 @@ pagetitle: "Acetaia Insieme"
 
 ::: {.l lang=it}
 <p class="eyebrow">La famiglia</p>
-## Siamo una famiglia allargata
-
 :::
 
 ::: {.l lang=en}
 <p class="eyebrow">The family</p>
-## We are an extended family
-
 :::
 
 ::: {.l lang=de}
 <p class="eyebrow">Die Familie</p>
-## Wir sind eine erweiterte Familie
-
 :::
 ::: {.l lang=es}
 <p class="eyebrow">La familia</p>
-## Somos una familia extensa
-
 :::
 ::: {.l lang=fr}
 <p class="eyebrow">La famille</p>
-## Nous sommes une famille élargie
-
 :::
 ::: {.l lang=pt}
 <p class="eyebrow">A família</p>
-## Somos uma família ampliada
-
 :::
 
 ```{=html}
