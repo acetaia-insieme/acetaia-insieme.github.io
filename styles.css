@@ -182,3 +182,7 @@ figure.plain img { border-radius: 12px; max-width: 100%; }
 .nav-footer { align-items: center; }
 .nav-footer-center { flex: 1 1 auto; max-width: none; text-align: center; }
 .nav-footer-left, .nav-footer-right { flex: 0 0 auto; }
+
+.home-foto { margin: 0 0 2rem; }
+.home-foto img { width:100%; height:auto; max-height:420px; object-fit:cover; object-position:center 55%; border-radius:16px; display:block; box-shadow:0 8px 24px rgba(0,0,0,.10); }
+.home-foto figcaption { color: var(--ai-muted); font-size:.88rem; margin-top:.5rem; }
